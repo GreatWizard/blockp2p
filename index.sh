@@ -31,7 +31,7 @@ fi
 
 curl -A "$UA" -s https://www.iblocklist.com/lists.php |
     sed -n "s/.*value='\(http:.*=p2p.*\)'.*/\1/p" |
-    xargs curl -A "$UA" -sL |
+    xargs curl -A "$UA" -sLf |
     gunzip |
     egrep -v '^#' |
     uniq
