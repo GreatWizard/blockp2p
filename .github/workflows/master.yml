@@ -1,0 +1,20 @@
+name: Update Lists
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: HatsuneMiku3939/direnv-action@v1
+      - run: mkdir dist && ./index.sh | gzip -9 > dist/blockp2p.list.gz
+      - uses: eine/tip@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: "nightly"
+          files: |
+            dist/*
