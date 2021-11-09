@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: echo "UA=$(./get-ua.sh)" >> $GITHUB_ENV
       - run: mkdir dist && ./index.sh | gzip -9 > dist/blockp2p.list.gz
         env:
-          UA: ${{ secrets.UA }}
+          UA: ${{ env.UA }}
       - uses: eine/tip@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
