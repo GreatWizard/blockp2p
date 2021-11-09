@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: HatsuneMiku3939/direnv-action@v1
       - run: mkdir dist && ./index.sh | gzip -9 > dist/blockp2p.list.gz
+        env:
+          UA: ${{ secrets.UA }}
       - uses: eine/tip@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
