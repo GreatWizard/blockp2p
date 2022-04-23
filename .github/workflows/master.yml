@@ -15,6 +15,8 @@ jobs:
       - run: mkdir dist && ./index.sh | gzip -9 > dist/blockp2p.list.gz
         env:
           UA: ${{ env.UA }}
+          IBL_USERNAME: ${{ secrets.IBL_USERNAME }}
+          IBL_PIN: ${{ secrets.IBL_PIN }}
       - uses: eine/tip@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
