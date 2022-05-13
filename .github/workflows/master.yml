@@ -10,14 +10,14 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: echo "UA=$(./get-ua.sh)" >> $GITHUB_ENV
       - run: mkdir dist && ./index.sh | gzip -9 > dist/blockp2p.list.gz
         env:
           UA: ${{ env.UA }}
           IBL_USERNAME: ${{ secrets.IBL_USERNAME }}
           IBL_PIN: ${{ secrets.IBL_PIN }}
-      - uses: eine/tip@master
+      - uses: pyTooling/Actions/releaser@r0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: "nightly"
