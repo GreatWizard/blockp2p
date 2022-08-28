@@ -17,9 +17,9 @@
 # inspired by https://gist.github.com/johntyree/3331662#gistcomment-1968023
 #
 # usage:
-#  UA="user agent string" mkp2pblocklist > /tmp/blockp2p.list
+#  UA="user agent string" index.sh > /tmp/blockp2p.list
 # or
-#  UA="user agent string" mkp2pblocklist | gzip -9 > /tmp/blockp2p.list.gz
+#  UA="user agent string" index.sh | gzip -9 > /tmp/blockp2p.list.gz
 
 PATH="/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:$PATH"
 
@@ -29,10 +29,17 @@ if [ -z "$UA" ]; then
     exit 1
 fi
 
+if [ -z "$IBL_USERNAME" ]; then
+    echo "Environment variable IBL_USERNAME missing."
+    exit 1
+fi
+
+if [ -z "$IBL_PIN" ]; then
+    echo "Environment variable IBL_PIN missing."
+    exit 1
+fi
+
 curl -A "$UA" -s https://www.iblocklist.com/lists.php |
     sed -n "s/.*value='\(http:.*=p2p.*\)'.*/\1/p" |
     sed -n "s/$/\&username=$IBL_USERNAME&pin=$IBL_PIN/p"
     xargs curl -A "$UA" -sLf |
-    gunzip |
-    egrep -v '^#' |
-    uniq
