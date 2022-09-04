@@ -1458,7 +1458,7 @@ Beijing Education Information Network:58.116.0.0-58.119.255.255
 Beijing Education Information Network:58.128.0.0-58.135.255.255
 reassign to \"King Mongkut University of technology Thonburi\":58.137.9.48-58.137.9.63
 reassign to \\\"Walailak University\\\":58.137.10.144-58.137.10.151
-reassign to \\\"Walailak University(Wan#2)\\\":58.137.10.152-58.137.10.159
+reassign to \\\"Walailak University(Wan
 reassign to \\\"Sukhothai Commercial College\\\":58.137.15.240-58.137.15.255
 reassign to \\\"Walailak University\\\":58.137.16.0-58.137.19.255
 reassign to \\\" Dhurakijpundit University\\\":58.137.20.0-58.137.21.255
@@ -2158,6 +2158,7 @@ Fukushima Metropolitan Iwaki High School Education:61.120.98.164-61.120.98.167
 KAMISHO junior high school:61.120.102.24-61.120.102.39
 Education Network for Abu Board of Education:61.120.105.192-61.120.105.199
 The SE Gakuen Educational Foundation:61.120.108.112-61.120.108.119
+ALC Education Inc:61.120.124.24-61.120.124.31
 Suzuka Junior High-School:61.120.141.56-61.120.141.63
 Suzuka Board Of Education:61.120.141.72-61.120.141.79
 Medical Welfare Special College:61.120.141.152-61.120.141.159
@@ -3669,6 +3670,7 @@ Wujiang High School:61.177.58.40-61.177.58.47
 JiangNan? Social University:61.177.58.80-61.177.58.87
 Jiangsu Silk College:61.177.58.96-61.177.58.103
 Suzhou Shengping Central Primary School:61.177.58.112-61.177.58.119
+Suzhou Edu Information Centre:61.177.58.120-61.177.58.127
 PanXi Primary School:61.177.58.208-61.177.58.215
 Suzhou YingChun Middle School:61.177.58.216-61.177.58.223
 Suzhou Tongcai Middle School:61.177.58.224-61.177.58.231
@@ -4166,6 +4168,7 @@ Konan Wome's Academy(School Corporation):61.194.24.128-61.194.24.135
 Shoin High School:61.194.24.144-61.194.24.151
 KOBEDENSHI Computer Technical College:61.194.25.8-61.194.25.15
 Nada High School And Junior High School:61.194.25.56-61.194.25.63
+Hyogo Educational Network:61.194.27.8-61.194.27.15
 KOBEDENSHI Computer Technical College:61.194.27.64-61.194.27.79
 Nakamura Gakuen Girls senior high school:61.194.32.48-61.194.32.55
 Nakamura Gakuen Sanyo High School:61.194.33.112-61.194.33.119
@@ -5375,6 +5378,7 @@ COLLEGE CHAMPOLLION:62.160.67.16-62.160.67.23
 LYCEE POLYVALENT D  ETAT JESSE DE FORES:62.160.67.45-62.160.67.45
 COLLEGE CHAMPOLLION:62.160.67.48-62.160.67.63
 COLLEGE DEPARTEMENTAL ANNA DE NOAILLES:62.160.67.240-62.160.67.243
+LYCEE PROFESSIONNEL VAUCANSON:62.160.68.116-62.160.68.119
 INSTITUT AMERICAIN UNIVERSITAIRE:62.160.68.137-62.160.68.137
 COLLEGE GAMBETTA:62.160.68.190-62.160.68.190
 COLLEGE:62.160.68.212-62.160.68.212
@@ -6041,7 +6045,6 @@ Roosevelt School District:63.68.43.192-63.68.43.207
 Roosevelt School Disrtict:63.68.43.208-63.68.43.223
 Roosevelt School District:63.68.43.224-63.68.43.239
 Roosevelt School District:63.68.45.96-63.68.45.127
-Roosevelt School Dis:63.68.45.128-63.68.45.143
 The Curtis Institute of Music:63.68.89.0-63.68.89.15
 Roosevelt School District:63.68.97.112-63.68.97.127
 Rainbow Rascals Learning:63.69.12.88-63.69.12.95
@@ -6074,7 +6077,6 @@ MAS/Howard Universit:63.79.155.0-63.79.155.255
 St. Sabastian School:63.79.163.192-63.79.163.255
 MIAMI AD SCHOOL:63.80.52.0-63.80.52.255
 adschool:63.80.61.192-63.80.61.255
-The Dalton School:63.80.167.192-63.80.167.223
 American College of:63.80.225.40-63.80.225.47
 University of Guam:63.80.250.48-63.80.250.63
 St. Mark School:63.81.67.208-63.81.67.215
@@ -6161,7 +6163,7 @@ HANOVER PARK COLLEGE:63.149.32.0-63.149.32.255
 SCHOOL ONE WHITE HAT MGMT:63.149.59.32-63.149.59.63
 STEVENS HENAGER COLLEGE:63.149.99.160-63.149.99.191
 UNIVERSITY COLORADO FOUNDATION:63.149.99.192-63.149.99.207
-COLLEGE STATION #103:63.149.157.224-63.149.157.231
+COLLEGE STATION 
 DALLAS COUNTY SCHOOLS:63.149.167.0-63.149.167.255
 DALLAS COUNTY SCHOOLS:63.149.171.0-63.149.171.255
 University of North Texas QWEST-63-149-180-64 (NET-63-149-180-64-1):63.149.180.64-63.149.180.95
@@ -6304,7 +6306,7 @@ The Wesley School:63.196.34.64-63.196.34.127
 Futures High School:63.196.68.200-63.196.68.207
 Schoolastic Sports:63.196.72.208-63.196.72.215
 Stella Maris Academy 194952:63.196.76.32-63.196.76.39
-La Purisima Catholic School Trk#154295:63.196.150.32-63.196.150.39
+La Purisima Catholic School Trk
 Le Grand Union Elementary School District:63.196.176.0-63.196.179.255
 National Training Institute:63.196.186.80-63.196.186.87
 Chapman University:63.196.248.48-63.196.248.55
@@ -6338,9 +6340,9 @@ San Francisco Art Institute:63.197.251.0-63.197.251.255
 Corpus Christi School-041014173509:63.197.254.48-63.197.254.55
 Visions In Education:63.198.6.144-63.198.6.151
 Saint James School:63.198.9.160-63.198.9.191
-Aviation Ground Schools LAN Trk#208282:63.198.9.192-63.198.9.199
+Aviation Ground Schools LAN Trk
 Presentation School 212933t LAN:63.198.10.128-63.198.10.159
-No Sacramento School Dist LAN Trk#191362:63.198.12.32-63.198.12.63
+No Sacramento School Dist LAN Trk
 Calif. Institute of Rural Studies:63.198.12.152-63.198.12.159
 Dix Unified Schl Dis:63.198.13.64-63.198.13.95
 UNIV OF CALIF:63.198.13.224-63.198.13.231
@@ -6581,7 +6583,7 @@ UNIVERSITY OF SOUTHERN NEVADA:63.224.99.0-63.224.99.31
 Judge Memorial Catholic High School:63.224.99.64-63.224.99.127
 Liberty School District:63.224.138.16-63.224.138.31
 NDEA:63.224.234.176-63.224.234.183
-Bruneau Grandview School District #365:63.224.242.128-63.224.242.159
+Bruneau Grandview School District 
 NORTHWEST NAZARENE UNIVERSITY:63.224.245.32-63.224.245.63
 DURHAM SCHOOL SERVICES:63.224.246.152-63.224.246.159
 New Mexico State University:63.225.1.0-63.225.1.255
@@ -6594,7 +6596,7 @@ Spalding Education Foundation:63.225.218.32-63.225.218.39
 Apollo College:63.226.21.192-63.226.21.199
 Mohave Educational Services:63.226.22.96-63.226.22.103
 Ash Fork United School Dist31:63.226.35.48-63.226.35.55
-STANFIELD ELEMENTARY DIST #24:63.226.40.80-63.226.40.95
+STANFIELD ELEMENTARY DIST 
 Buckeye Public School:63.226.40.96-63.226.40.111
 PAN AM INTERNATIONAL FLIGHT ACADEMY:63.226.48.48-63.226.48.55
 Foundation For Ancient Research:63.226.66.160-63.226.66.167
@@ -6973,7 +6975,7 @@ Holy Trinity High School:64.81.155.16-64.81.155.31
 chrysalis-school:64.81.182.96-64.81.182.127
 Pacific Crest Outward Bound School:64.81.183.96-64.81.183.111
 Northwest Institute of Acupuncture and Oriental Medicine:64.81.183.112-64.81.183.127
-COMMUNITY SCHOOL DISTRICT #30:64.81.216.160-64.81.216.175
+COMMUNITY SCHOOL DISTRICT 
 Lewis University:64.81.231.192-64.81.231.207
 University of Chicago:64.81.251.128-64.81.251.143
 THE GIRLS' MIDDLE SCHOOL:64.81.253.144-64.81.253.159
@@ -7176,7 +7178,7 @@ KCRW Santa Monica College:64.162.164.24-64.162.164.31
 Sulphur Srings Unified School District:64.162.172.168-64.162.172.175
 Orange County High School:64.162.184.0-64.162.185.255
 CHILDRENS NETWORK OF SOLANO COUNTY:64.162.203.192-64.162.203.199
-Eastside Union High School District #2:64.162.207.72-64.162.207.79
+Eastside Union High School District 
 OUR LADY OF MOUNT CARMEL SCHOOL:64.162.216.32-64.162.216.63
 National University:64.163.2.0-64.163.3.255
 Delaney Educational Ent:64.163.4.160-64.163.4.167
@@ -7552,7 +7554,7 @@ SUMMIT ACADEMY:64.253.109.176-64.253.109.183
 PORTLAND CHRISTIAN SCHOOL:64.253.111.192-64.253.111.207
 Marian High School:64.253.168.0-64.253.171.255
 College de Montreal Inc:64.254.4.0-64.254.4.15
-Fredonia High School - USD #484:64.254.35.224-64.254.35.255
+Fredonia High School - USD 
 NorthEast Ohio Management Information Network:64.254.64.0-64.254.79.255
 Hampshire College:64.254.160.0-64.254.175.255
 Hebrew Academy:64.254.230.32-64.254.230.47
@@ -7874,7 +7876,7 @@ CLEAR CREEK SCHOOL DISTRICT:65.117.207.112-65.117.207.119
 UNIVERSITY OF MARYLAND:65.118.41.128-65.118.41.191
 FONTBONNE UNIVERSITY:65.118.98.192-65.118.98.207
 FULLER THEOLOGICAL SEMINARY:65.118.138.0-65.118.138.255
-CONGRESS SCHOOL DSICTRICT #17:65.118.183.240-65.118.183.247
+CONGRESS SCHOOL DSICTRICT 
 UNIVERSITY OF IOWA COMMUNITY Q0117-65-118-251-32 (NET-65-118-251-32-1):65.118.251.32-65.118.251.39
 MICHIGAN EDUCATION:65.119.141.248-65.119.141.255
 WHEELING JESUIT UNIVERSITY:65.119.172.0-65.119.173.255
@@ -8096,7 +8098,6 @@ St Johns Country Day School:66.20.52.0-66.20.52.31
 Episcopal High School:66.20.52.32-66.20.52.63
 Brevard County Library Services:66.20.54.192-66.20.54.199
 University of Central Florida:66.20.55.96-66.20.55.127
-Keiser College:66.20.195.0-66.20.195.31
 Voorhees College:66.20.197.128-66.20.197.135
 Georgia Department of Education:66.20.218.96-66.20.218.127
 Morehouse College:66.20.222.160-66.20.222.191
@@ -8141,7 +8142,7 @@ Georgia Rehab Outreach Inc:66.47.10.0-66.47.10.7
 St Ignatius Loyala Academy:66.47.22.208-66.47.22.215
 International Code Council:66.47.22.224-66.47.22.231
 Churchman Business School:66.47.23.112-66.47.23.119
-School Dis. #3 Fed Cr Union:66.47.25.0-66.47.25.7
+School Dis. 
 University Services Limited:66.47.31.128-66.47.31.159
 St. Monica School SF:66.47.50.104-66.47.50.111
 ASA Academy:66.47.51.184-66.47.51.191
@@ -9282,7 +9283,7 @@ Central Consolidated Schools:67.131.76.0-67.131.76.255
 SAN JOSE UNIFIED SCHOOL DSTRIC:67.131.231.160-67.131.231.175
 EDUCATION SALES MGT:67.132.5.0-67.132.5.255
 The Union Institute & Uniersity:67.132.25.248-67.132.25.255
-WASHINGTON ELEMENTARY SD #6:67.132.118.0-67.132.118.255
+WASHINGTON ELEMENTARY SD 
 JOHNS HOPKINS UNIV/APL:67.132.192.112-67.132.192.119
 NEW MEXICO SCHOOL FOR THE DEAF:67.134.17.128-67.134.17.191
 PACIFIC UNION COLLEGE:67.134.132.0-67.134.133.255
@@ -9696,7 +9697,7 @@ Purdue University:68.249.58.48-68.249.58.55
 UNIV OF WIS-041215024233:68.249.87.192-68.249.87.199
 Case Western Reserve Uni:68.249.147.80-68.249.147.87
 Univ Of Mich Empl Un:68.249.156.152-68.249.156.159
-School District of Hartford JT#1:68.250.19.240-68.250.19.255
+School District of Hartford JT
 Wright State Univ:68.250.28.144-68.250.28.151
 Academy Bakery:68.250.34.216-68.250.34.223
 Academy Bakery:68.250.34.240-68.250.34.247
@@ -10015,7 +10016,7 @@ ACADEMY HOME CARE SERVICES-041015234348:69.155.186.64-69.155.186.71
 East Texas Baptist University .19386:69.155.227.0-69.155.227.255
 Greenville School District 3:69.155.253.0-69.155.253.127
 HOLY CROSS HIGH SCHOOL:69.177.18.0-69.177.18.63
-SNET-FFLD UNIV PROJ/DSL# 2032381763-041122231324:69.177.199.112-69.177.199.119
+SNET-FFLD UNIV PROJ/DSL
 EDUCATION CONNECTION INC-041203231712:69.177.247.152-69.177.247.159
 Notre Dame High School.311570:69.177.248.128-69.177.248.255
 COLLEGE COMMUNITY SERVICES:69.178.161.104-69.178.161.111
@@ -10135,6 +10136,7 @@ Univ Of Chgo Grad Schl-050628160712:69.223.198.232-69.223.198.239
 NATIONAL UNIVERSITY OF HLTH-050706113307:69.223.224.104-69.223.224.111
 NATIONAL UNIVERSITY OF HLTH-050713230025:69.223.253.16-69.223.253.23
 UNIVERSITY OF CHICAGO-050714101741:69.223.254.240-69.223.254.247
+SFUSD-040812014922:69.224.26.192-69.224.26.199
 STANFORD UNIV MED CTR-040804051320:69.224.30.232-69.224.30.239
 National University12409791:69.224.73.0-69.224.73.7
 Latis Career College:69.224.104.208-69.224.104.215
@@ -10667,7 +10669,7 @@ The Latin School of Chicago:71.154.188.0-71.154.189.255
 ST OF TX TEXAS A M-060802013608:71.155.186.8-71.155.186.15
 CALVIN COLLEGE-060216015730:71.155.204.64-71.155.204.71
 Dominican University 1:71.156.97.192-71.156.97.255
-Shawnee Heights USD #450:71.156.169.64-71.156.169.95
+Shawnee Heights USD 
 ACADEMY OF KIDS SPORTS-060304033428:71.157.139.32-71.157.139.39
 WAYNE STATE UNIVERSITY-060302022545:71.157.156.208-71.157.156.215
 Univ of MICH ITCom:71.158.80.104-71.158.80.111
@@ -10786,7 +10788,7 @@ UTICA COLLEGE:72.237.4.0-72.237.4.255
 Pennsylvania College of Optometry:72.237.31.128-72.237.31.191
 Point Park University:72.237.94.0-72.237.94.255
 UNIVERSITY GABLES - Airwaves Networks Inc:72.237.160.0-72.237.163.255
-Unified School District #259:72.237.248.0-72.237.248.255
+Unified School District 
 ARLINGTON CHRISTIAN SCHOOL:72.242.73.184-72.242.73.191
 KENNESAW CHARTER SCHOOL:72.242.73.232-72.242.73.239
 CARDINAL GIBBONS HIGH SCHOOL:72.242.134.80-72.242.134.95
@@ -11611,6 +11613,7 @@ ST ADALBERTUSSCHOOL:80.115.63.0-80.115.63.127
 EBEN HAEZER-SCHOOL:80.115.64.0-80.115.64.127
 GOEDE HERDERSCHOOL:80.115.64.128-80.115.64.255
 DS J FRAANJE-SCHOOL:80.115.68.128-80.115.68.255
+KONINGIN BEATRIXSCHOOL:80.115.70.128-80.115.70.255
 Kon Wilhelminaschool:80.115.71.128-80.115.71.255
 MYTYLSCHOOL FRANCISCUS:80.115.75.128-80.115.75.255
 NUTSBASISSCHOOL:80.115.76.128-80.115.76.255
@@ -12167,6 +12170,7 @@ YMCA:81.2.69.48-81.2.69.48
 None specified:81.2.85.77-81.2.85.77
 None specified:81.2.85.96-81.2.85.99
 TOWER-HAMLETS-SUMMER-UNIVERSITY:81.2.101.94-81.2.101.94
+Hollingworth High School (GM):81.2.104.90-81.2.104.90
 Cranfield Flying School:81.2.106.174-81.2.106.174
 The Kings School:81.2.123.234-81.2.123.234
 Global Payment Institute GbR:81.3.53.224-81.3.53.239
@@ -12928,7 +12932,7 @@ Medical University of Tabriz:82.115.20.0-82.115.20.255
 ISLAMIC AZAD University PARAND Branch:82.115.21.0-82.115.21.254
 Almaty International School:82.115.34.164-82.115.34.167
 Academy of law and market:82.115.41.56-82.115.41.63
-School #7:82.115.54.68-82.115.54.71
+School 
 School 5:82.115.54.208-82.115.54.211
 Surgut State University:82.116.7.0-82.116.7.255
 Volga Cooperative Institute LAN:82.116.48.128-82.116.48.135
@@ -13123,7 +13127,7 @@ Tomsk State University:82.200.73.0-82.200.73.255
 Tomsk State University of Systems Control and Radioelectronics:82.200.78.0-82.200.78.255
 Tomsk Polytechnic University:82.200.79.0-82.200.79.255
 Tomsk State University of Systems Control and Radioelectronics:82.200.113.0-82.200.113.255
-Sec. School #165(Liceum):82.200.128.40-82.200.128.47
+Sec. School 
 REPUBLICAN CENTRE OF EDUCATION IN INFORMATION:82.200.140.132-82.200.140.135
 KAZAK AMERICAN UNIVERSITET:82.200.140.204-82.200.140.207
 School-lyceum48:82.200.163.96-82.200.163.103
@@ -13619,7 +13623,7 @@ My College Name is tabari:85.185.101.224-85.185.101.239
 Islamic Azad university-Ayatollah Amoli:85.185.103.224-85.185.103.239
 Shahreza Payamnoor University:85.185.133.192-85.185.133.223
 Malek Ashtar University:85.185.135.128-85.185.135.255
-Islamic Azad University&#8211;Shahrekord Branch&#8211;ShahreKian Veternary Clinic:85.185.140.0-85.185.140.15
+Islamic Azad University&
 Malek Ashtar University:85.185.141.0-85.185.141.255
 Payamnur university of Abade:85.185.142.176-85.185.142.191
 Shiraz Payam-e-Noor University:85.185.143.176-85.185.143.191
@@ -14131,7 +14135,7 @@ Gazi Universitesi Bilisim Enstitusu:88.255.39.64-88.255.39.127
 Anadolu University:88.255.41.224-88.255.41.255
 Ataturk Universitesi:88.255.53.0-88.255.53.255
 Koc Universitesi:88.255.76.0-88.255.76.7
-Koc Universitesi - NCC#2006030263:88.255.96.0-88.255.99.255
+Koc Universitesi - NCC
 BEYKENT UNIVERSITY:88.255.100.128-88.255.100.255
 AKDENIZ UNIVERSITESI REKTORLUGU ANTALYA:88.255.131.96-88.255.131.127
 Formula 1 yani Ballica Yolu Akfirat Kurtkoy  ISTANBUL:88.255.172.0-88.255.172.255
@@ -16206,6 +16210,7 @@ La Trobe University College of Northern Victoria:149.144.0.0-149.144.255.255
 Vienna General Hospital and University Clinics:149.148.0.0-149.148.255.255
 Tennessee Technological University:149.149.0.0-149.149.255.255
 Seton Hall University:149.150.0.0-149.150.255.255
+William Paterson State College:149.151.0.0-149.151.255.255
 Connecticut State University:149.152.0.0-149.152.255.255
 Local Ethernet:149.153.0.0-149.153.255.255
 POLIP:149.156.0.0-149.156.255.255
@@ -16732,11 +16737,11 @@ Universite Montpellier II:162.38.0.0-162.38.255.255
 University of Pittsburgh - Meadville:162.39.22.56-162.39.22.63
 Greensboro Montessori School:162.39.100.176-162.39.100.191
 Philander Smith College:162.39.156.160-162.39.156.191
-Toccoa Falls College #1:162.39.227.0-162.39.227.255
+Toccoa Falls College 
 Brewton Parker College - Mt. V:162.39.237.128-162.39.237.255
 Ohio Education Association:162.50.0.0-162.50.255.255
 Community College of Allegheny County:162.51.0.0-162.51.255.255
-Bellevue SchoolDistrict #405:162.78.0.0-162.78.255.255
+Bellevue SchoolDistrict 
 Peking University:162.105.0.0-162.105.255.255
 Arizona Department of Education:162.126.0.0-162.126.255.255
 University of Nebraska:162.127.0.0-162.127.255.255
@@ -16879,7 +16884,7 @@ Cherry Creek School District:166.113.0.0-166.113.255.255
 Ministry Of Education Singapore:166.121.0.0-166.121.255.255
 University of Hawaii Community College System:166.122.0.0-166.122.255.255
 Houston Independent School District:166.127.0.0-166.127.255.255
-Arapahoe School District #6:167.86.0.0-167.86.255.255
+Arapahoe School District 
 Amarillo Independent School District:167.88.64.0-167.88.79.255
 Corona-Norco Unified School District:167.88.224.0-167.88.239.255
 Point Park University:167.88.240.0-167.88.255.255
@@ -16943,7 +16948,7 @@ University of Botswana:168.167.8.0-168.167.8.255
 Erie 1 BOCES:168.169.0.0-168.169.255.255
 Madison-Oneida BOCES:168.170.0.0-168.170.255.255
 Region IV Education Service Center:168.171.0.0-168.171.255.255
-Tucson Unified School District #1:168.174.0.0-168.174.255.255
+Tucson Unified School District 
 Universidad Nacional de Colombia:168.176.0.0-168.176.255.255
 Orange County Public Schools:168.184.0.0-168.184.255.255
 Chungnam National University:168.188.0.0-168.188.255.255
@@ -16986,7 +16991,7 @@ Emory University:170.140.0.0-170.140.255.255
 Onondaga Boces:170.158.0.0-170.158.255.255
 Eastern Suffolk BOCES:170.161.0.0-170.161.255.255
 University of Pennsylvania Health System:170.166.0.0-170.166.255.255
-Deer Valley Unified School District #97:170.177.0.0-170.177.255.255
+Deer Valley Unified School District 
 Kentucky Department of Education:170.180.0.0-170.183.255.255
 Kentucky Department of Education:170.185.0.0-170.185.255.255
 Red de Interconexion Universitaria:170.210.0.0-170.210.255.255
@@ -18076,16 +18081,15 @@ St Clair College of Applied Arts and Technology:192.139.208.0-192.139.208.255
 Lambton College:192.139.213.0-192.139.214.255
 Fanshawe College:192.139.219.0-192.139.220.255
 Cambrian College of Applied Arts &amp; Technology:192.139.224.0-192.139.224.255
-BC School District #42:192.139.228.0-192.139.230.255
+BC School District 
 Mohawk College of Applied Arts and Technology:192.139.232.0-192.139.232.255
-School District #36 (Surrey):192.139.236.0-192.139.236.255
+School District 
 Loyalist College:192.139.237.0-192.139.237.255
 University of Toronto:192.139.244.0-192.139.244.255
 Canadore College of Applied Arts and Technology:192.139.245.0-192.139.245.255
 RENATER:192.144.78.0-192.144.78.255
 Tomball Independent School District:192.146.116.0-192.146.116.255
 University of Warwick Computing Services:192.146.136.0-192.146.136.255
-Middlesex University:192.146.137.0-192.146.141.255
 Cariboo College:192.146.156.0-192.146.156.255
 Ecole Nationale Des Techniciens:192.146.182.0-192.146.182.255
 Elizabethtown College:192.146.186.0-192.146.186.255
@@ -18155,7 +18159,6 @@ University of Economics:192.150.203.0-192.150.203.255
 Angelo State University:192.150.210.0-192.150.210.255
 University of California, Santa Barbara:192.150.216.0-192.150.217.255
 University of California, Santa Barbara UCSB-SEQUOIA2 (NET-192-150-217-0-1):192.150.217.0-192.150.217.255
-Indiana University of Pennsylvania:192.150.225.0-192.150.225.255
 Thammasat University:192.150.249.0-192.150.249.255
 Princeton Regional Schools:192.152.5.0-192.152.5.255
 Loras College:192.152.29.0-192.152.29.255
@@ -18877,13 +18880,13 @@ Democritus University of Thrace:193.92.236.0-193.92.251.255
 Education Network - EDUNET-   INBMI   ISP:193.95.5.0-193.95.5.255
 Part of the Education Network ,   ISP= INBMI:193.95.25.0-193.95.25.255
 Reseau de l'education nationale dans les regions:193.95.29.0-193.95.29.255
-Reseau National Universitaire # 1:193.95.30.0-193.95.30.255
-Reseau National Universitaire # 2:193.95.31.0-193.95.31.255
-Reseau National Universitaire # 3:193.95.32.0-193.95.32.255
-Reseau National Universitaire # 4:193.95.33.0-193.95.33.255
-Reseau National Universitaire # 5:193.95.34.0-193.95.34.255
-Reseau National Universitaire # 6:193.95.35.0-193.95.35.255
-Reseau National Universitaire ,, Network # 7:193.95.36.0-193.95.36.255
+Reseau National Universitaire 
+Reseau National Universitaire 
+Reseau National Universitaire 
+Reseau National Universitaire 
+Reseau National Universitaire 
+Reseau National Universitaire 
+Reseau National Universitaire ,, Network 
 SUPCOM + ISETCOM   - Telecom Engineering school:193.95.37.0-193.95.37.255
 Reseau National Universitaire ,, Network 38:193.95.38.0-193.95.38.255
 Education Network 1,    ISP=INBMI:193.95.94.0-193.95.94.255
@@ -19117,6 +19120,7 @@ Educational institution connected to SEKTORNET:193.162.253.0-193.162.253.255
 Educational institution connected to SEKTORNET:193.162.254.128-193.162.254.191
 Educational institution connected to SEKTORNET:193.162.254.192-193.162.254.255
 Educational institution connected to SEKTORNET:193.163.8.0-193.163.8.255
+Educational institution connected to SEKTORNET:193.163.33.0-193.163.33.31
 Educational institution connected to SEKTORNET:193.163.129.0-193.163.129.255
 National Institute of Radiation Hygiene:193.163.131.0-193.163.131.255
 Educational institution connected to SEKTORNET:193.163.146.0-193.163.147.255
@@ -19916,7 +19920,6 @@ Germany School and Institute - Budapest:194.143.228.88-194.143.228.95
 Elementary School and Civilization House Csepel (:194.143.230.128-194.143.230.135
 Myndlistaskolinn a Akureyri:194.144.132.0-194.144.132.63
 Idnskolinn i Reykjavik:194.144.192.0-194.144.192.255
-Warsaw School of Economics:194.145.96.0-194.145.111.255
 Vinnytsia National Technical University:194.146.140.0-194.146.143.255
 Isfahan University of Technology:194.146.148.0-194.146.151.255
 Kantonsschule Hohe Promenade:194.147.66.0-194.147.66.255
@@ -21206,6 +21209,7 @@ University of Poona:196.1.114.0-196.1.114.255
 University of the West Indies, Cave Hill Campus:196.1.162.128-196.1.162.255
 University of the West Indies, Cave Hill Campus:196.1.163.0-196.1.166.255
 University of the West Indies, Cave Hill Campus:196.1.172.0-196.1.175.255
+University of the West Indies:196.2.0.0-196.2.1.255
 Higher Institute of Applied Sciences and Technolo:196.2.4.0-196.2.7.255
 Higher Institute of Applied Sciences and Technology (HIAST):196.2.5.0-196.2.7.255
 University of the West Indies:196.3.0.0-196.3.7.255
@@ -21596,7 +21600,7 @@ Altoona Area School District:198.160.254.0-198.160.254.255
 The Banff Centre for Continuing Education:198.161.28.0-198.161.31.255
 Grant MacEwan Community College:198.161.32.0-198.161.63.255
 Grant MacEwan Community College:198.161.63.0-198.161.63.255
-Red Deer Public School District #104:198.161.112.0-198.161.117.255
+Red Deer Public School District 
 Edmonton Public School Board, District No. 7:198.161.119.0-198.161.119.255
 Canadian Union College:198.161.120.0-198.161.123.255
 University of Calgary:198.161.127.0-198.161.127.255
@@ -21604,11 +21608,11 @@ Edmonton Public Library:198.161.203.0-198.161.203.255
 Lakeland College:198.161.212.0-198.161.215.255
 Augustana University College:198.161.218.0-198.161.218.255
 East Kootenay Community College:198.162.1.0-198.162.1.255
-School District #42:198.162.5.0-198.162.5.255
+School District 
 University College of the Cariboo:198.162.20.0-198.162.23.255
 University of British Columbia:198.162.32.0-198.162.63.255
 BCNET-AGG-15:198.162.64.0-198.162.67.255
-Maple Ridge-Pitt Meadows School District # 42:198.162.71.0-198.162.71.255
+Maple Ridge-Pitt Meadows School District 
 University College of the Fraser Valley:198.162.96.0-198.162.119.255
 North Saanich Middle School:198.162.236.0-198.162.236.255
 College Universitaire de Saint Boniface:198.163.3.0-198.163.3.255
@@ -21639,7 +21643,7 @@ Champlain Regional College:198.168.102.0-198.168.103.255
 McGill University Computing Centre:198.168.128.0-198.168.191.255
 McGill University:198.168.191.0-198.168.191.255
 Regina Public Library:198.169.4.0-198.169.5.255
-SASK#net Regional Network:198.169.12.0-198.169.23.255
+SASK
 Saskatchewan Education Training and Employment:198.169.112.0-198.169.119.255
 Saskatchewan Education:198.169.120.0-198.169.124.255
 St. Paul's Roman Catholic Separate School:198.169.136.0-198.169.139.255
@@ -21677,7 +21681,7 @@ St. Ambrose University:198.179.128.0-198.179.128.255
 Troy State University:198.179.130.0-198.179.130.255
 Peru State College:198.180.0.0-198.180.3.255
 Peru State College:198.180.3.0-198.180.3.255
-Monroe #1 BOCES:198.180.129.0-198.180.129.255
+Monroe 
 Alabama A&amp;M University:198.180.132.0-198.180.135.255
 The City University of New York Law School:198.180.141.0-198.180.141.255
 Academy School District 20, Mountain View Elementa:198.180.148.0-198.180.148.255
@@ -21711,6 +21715,7 @@ Space Sciences Laboratory University of California:198.183.225.0-198.183.226.255
 Loras College:198.183.227.0-198.183.227.255
 University Center at Tulsa:198.183.248.0-198.183.249.255
 San Mateo Union High School District:198.184.136.0-198.184.136.255
+Detroit College of Business:198.184.137.0-198.184.137.255
 Josephine County School District:198.184.212.0-198.184.212.255
 Audrey Cohen College:198.185.4.0-198.185.7.255
 Audrey Cohen College:198.185.7.0-198.185.7.255
@@ -21879,8 +21884,8 @@ Simon Fraser University (SFUCSS) - (aggregate):199.60.0.0-199.60.15.255
 Simon Fraser University:199.60.1.0-199.60.18.255
 Simon Fraser University (SFUCSS):199.60.16.0-199.60.18.255
 BCSD42-N5:199.60.30.0-199.60.31.255
-School District #42 (Maple Ridge -- Pitt Meadows):199.60.30.0-199.60.31.255
-School District #85, Vancouver Island North:199.60.32.0-199.60.47.255
+School District 
+School District 
 BCSD85NET1:199.60.32.0-199.60.32.255
 BCSD85NET2:199.60.33.0-199.60.33.255
 BCSD85NET3:199.60.34.0-199.60.34.255
@@ -22077,7 +22082,7 @@ Baldwin Community Schools:199.178.249.0-199.178.249.127
 Texas Woman's University:199.181.16.0-199.181.31.255
 DOMINICAN COLLEGE OF SAN RAFAEL:199.181.84.0-199.181.84.255
 East Central University:199.181.88.0-199.181.91.255
-Manhattan-Ogden Unified School District #383:199.181.128.0-199.181.128.255
+Manhattan-Ogden Unified School District 
 Charleston Southern University:199.181.139.0-199.181.139.255
 Kansas City Art Institute:199.181.142.0-199.181.142.255
 Livonia Public Schools:199.181.146.0-199.181.146.255
@@ -22108,7 +22113,7 @@ St.Albert Protestant Schools:199.185.209.0-199.185.211.255
 Clint High Public Library:199.190.118.0-199.190.118.255
 Wofford College:199.190.174.0-199.190.174.255
 Grand View College:199.190.220.0-199.190.220.255
-Monroe #1 BOCES:199.190.222.0-199.190.225.255
+Monroe 
 Jamestown College:199.190.237.0-199.190.242.255
 Paradise Valley School District:199.195.64.0-199.195.113.255
 Madison Metropolitan School District:199.197.64.0-199.197.127.255
@@ -22245,7 +22250,7 @@ Saint Martin's College:199.245.238.0-199.245.238.255
 Aurora College, Yellowknife Campus:199.247.58.0-199.247.58.255
 Yukon College:199.247.244.0-199.247.245.255
 Mountain Brook City Schools:199.248.173.0-199.248.178.255
-Laramie County School District #1:199.248.195.0-199.248.195.255
+Laramie County School District 
 Livonia Public Schools:199.249.64.0-199.249.108.255
 Heritage College:199.249.128.0-199.249.133.255
 Gateway Networks:199.249.132.0-199.249.133.255
@@ -23737,6 +23742,7 @@ Shandong Jinan Science Institute Doctor Informati:202.102.158.136-202.102.158.14
 Weifang Enrollment and Examination office:202.102.158.192-202.102.158.207
 Weifang Enrollment and Examination office:202.102.158.224-202.102.158.255
 Shandong Jinan Science Institute Doctor Informati:202.102.159.136-202.102.159.143
+Shandong Liaocheng Linqing No.1 Middle School:202.102.160.16-202.102.160.31
 Shandong Liaocheng No.2 Middle School:202.102.160.64-202.102.160.95
 Shandong Liaocheng Wenxuanwanquan Middle School:202.102.160.160-202.102.160.191
 Shandong Liaocheng Guanxian Education Committee:202.102.160.192-202.102.160.223
@@ -23754,6 +23760,7 @@ Shandong Dezhou Pingyuan No.1 Middle School:202.102.186.96-202.102.186.127
 Shandong Dezhou Lingxian No.1 Middle School:202.102.186.144-202.102.186.159
 Shandong Dezhou Yucheng Experiment Middle School:202.102.186.160-202.102.186.191
 Shandong Dezhou Health School:202.102.186.248-202.102.186.255
+Linyi Lu Nan profession trade school:202.102.187.112-202.102.187.127
 Linyi Tancheng county Yu Cai middle school:202.102.187.128-202.102.187.143
 Linyi Linshu county teacher further education sch:202.102.187.144-202.102.187.159
 Shandong Jinan Library:202.102.188.96-202.102.188.111
@@ -25710,7 +25717,6 @@ University Michigan Business School:203.86.129.224-203.86.129.239
 Lok Wah Catholic Primary School:203.86.129.240-203.86.129.247
 The Hong Kong Bapist University:203.86.134.208-203.86.134.223
 SKH Holy Spirit Primary School:203.86.137.80-203.86.137.95
-SKH Tsoi Kung Po Secondary School:203.86.137.192-203.86.137.207
 Karoro Learning:203.86.207.200-203.86.207.200
 Ararat Community College:203.87.6.0-203.87.6.127
 Highview College:203.87.6.128-203.87.6.255
@@ -26069,12 +26075,11 @@ National Library Board:203.117.143.0-203.117.143.255
 Nanyang Technological University:203.117.147.192-203.117.147.255
 The World Learning Centre Pte Ltd:203.118.51.200-203.118.51.207
 Singapore Institute Of Management:203.120.13.0-203.120.13.255
-Marketing Institute of S'pore Training Centre:203.120.24.64-203.120.24.127
 National Library Board:203.120.114.0-203.120.115.255
 Oversea Family School:203.120.176.0-203.120.176.127
 St Nicholas Gilrs' School:203.120.184.0-203.120.184.255
 Trinity Theological College:203.120.185.160-203.120.185.191
-International School Singapore (a/c #323125):203.120.232.32-203.120.232.63
+International School Singapore (a/c 
 International School(s) Pte Ltd:203.120.232.64-203.120.232.96
 Singapore Aviation Academy:203.120.253.96-203.120.253.111
 A & A Education Centre:203.120.254.64-203.120.254.127
@@ -27633,7 +27638,6 @@ Euclid City Schools:204.5.216.0-204.5.219.255
 Warren Consolidated Schools:204.6.37.0-204.6.37.255
 Bettendorf Public Library:204.8.36.0-204.8.39.255
 Boston University:204.8.152.0-204.8.159.255
-Johns Hopkins University Applied Physics Laboratory:204.9.128.0-204.9.135.255
 Ohio Mid Eastern Regional Education Service Agency:204.9.144.0-204.9.151.255
 Cornell University:204.9.168.0-204.9.171.255
 Northeast Ohio Network for Education Technology:204.11.184.0-204.11.191.255
@@ -27790,8 +27794,8 @@ North Battleford Comprehensive High School:204.83.150.0-204.83.150.255
 Saskatchewan Provincial Library:204.83.189.0-204.83.189.255
 Saskatchewan Indian Federated College:204.83.203.0-204.83.204.255
 Saskatchewan Indian Federated College NETBLK-SIFC:204.83.204.0-204.83.204.255
-Regina Catholic School Division #81:204.83.211.0-204.83.211.255
-Moose Jaw Roman Catholic Separate School Division #22:204.83.216.0-204.83.217.255
+Regina Catholic School Division 
+Moose Jaw Roman Catholic Separate School Division 
 Palliser Regional Library:204.83.240.0-204.83.240.255
 Parkland Regional Library:204.83.241.0-204.83.241.255
 SRNet Saskatchewan Research Network Inc:204.83.249.0-204.83.249.255
@@ -27932,14 +27936,14 @@ Hawaii Preparatory Academy:204.130.155.0-204.130.155.255
 Hawaii Association of Independent Schools:204.130.156.0-204.130.156.255
 The Master's College:204.130.172.0-204.130.172.255
 The Louisiana School for Math, Science, and the Arts:204.130.214.0-204.130.214.255
-Johnson County School District #1:204.130.240.0-204.130.240.255
+Johnson County School District 
 Weld County School District:204.131.38.0-204.131.39.255
 Weld School District RE-1:204.131.165.0-204.131.165.255
 Douglas County Public Library District:204.131.182.0-204.131.182.255
 Unifocus:204.131.183.0-204.131.183.255
 University of Colorado at Boulder:204.131.208.0-204.131.208.255
 Poudre School District:204.131.232.0-204.131.232.255
-Pueblo School District #60:204.132.97.0-204.132.106.255
+Pueblo School District 
 Colorado High School Activities Assoc:204.132.159.0-204.132.159.255
 Loveland Public Library:204.132.183.0-204.132.183.255
 Colorado Computer Training Institute:204.132.193.0-204.132.193.255
@@ -28103,7 +28107,7 @@ Medicine Hat College:204.209.40.0-204.209.42.255
 Wolf Creek Regional Division No. 32:204.209.58.0-204.209.80.255
 Grande Yellowhead Regional Division No. 35:204.209.88.0-204.209.110.255
 High Level Public School:204.209.121.0-204.209.121.255
-Red Deer Public School District #104:204.209.223.0-204.209.247.255
+Red Deer Public School District 
 Westmoreland Cnty Com College:204.213.86.0-204.213.87.255
 MONTGOMERY COLLEGE:204.214.86.0-204.214.87.255
 UNIVERSITY OF GEORGIA SPRINTLINK (NET-204-215-51-0-1):204.215.51.0-204.215.51.127
@@ -28291,7 +28295,7 @@ University of Oregon:205.167.76.0-205.167.77.255
 SAN JUAN COLLEGE:205.167.120.0-205.167.121.255
 University of Mobile:205.167.126.0-205.167.127.255
 Averett College:205.167.138.0-205.167.139.255
-Hellgate Elementary School District #4:205.167.162.0-205.167.163.255
+Hellgate Elementary School District 
 Cate School:205.167.174.0-205.167.175.255
 Concord School District:205.167.196.0-205.167.197.255
 Mahomet-Seymour Community Schools:205.167.212.0-205.167.213.255
@@ -28505,7 +28509,7 @@ Fayetteville Technical Community College:205.244.118.224-205.244.118.255
 Central Florida Library Consortium:205.245.55.0-205.245.55.255
 Pamunkey Regional Library:205.245.244.0-205.245.244.255
 Western New England College:205.246.4.0-205.246.4.127
-Northwestern Regional School #7:205.246.46.48-205.246.46.63
+Northwestern Regional School 
 Cumberland County College:205.246.162.0-205.246.163.255
 Hunterdon County Regional High School:205.247.5.0-205.247.10.255
 Mathews County Public Schools:205.247.29.0-205.247.29.255
@@ -28660,7 +28664,7 @@ Geraldton Board of Education - Geraldton:206.51.32.0-206.51.32.255
 Texas State Technical College Harlingen:206.51.48.0-206.51.63.255
 Knowledge Learning Corporation:206.53.40.0-206.53.47.255
 FREMONT COUNTY SCHOOL DISTRICT 38:206.54.64.0-206.54.64.255
-ALBANY COUNTY SCHOOL DISTRICT #1:206.54.105.192-206.54.105.255
+ALBANY COUNTY SCHOOL DISTRICT 
 PRESTON UNIVERSITY:206.54.107.0-206.54.107.255
 CONVERSE COUNTY SCHOOLS:206.54.109.0-206.54.109.255
 Pacific Science Center:206.63.136.0-206.63.136.255
@@ -28704,7 +28708,7 @@ School District No. 54 (Bulkley Valley):206.87.37.0-206.87.43.255
 School District 27 (aggregate):206.87.48.0-206.87.55.255
 School District 63 School Board Office:206.87.60.0-206.87.60.255
 Northwest Community College (Smithers):206.87.61.0-206.87.61.255
-BC School District #57 (aggregate):206.87.64.0-206.87.79.255
+BC School District 
 University of Victoria (UVIC):206.87.82.0-206.87.82.255
 BC School District 22 (aggregate):206.87.96.0-206.87.111.255
 School District 18:206.87.116.0-206.87.116.255
@@ -28713,8 +28717,8 @@ Northwest Community College (Smithers):206.87.164.0-206.87.164.255
 Special Education Technology of B.C:206.87.165.0-206.87.165.255
 Special Education Technology of B.C:206.87.168.0-206.87.168.255
 School District 69:206.87.177.0-206.87.179.255
-BC School District #46 (aggregate):206.87.192.0-206.87.223.255
-BC School District #42 (aggregate):206.87.224.0-206.87.227.255
+BC School District 
+BC School District 
 School District no. 88:206.87.230.0-206.87.239.255
 Shawnigan Lake School:206.87.247.0-206.87.247.255
 BC School District N0. 75:206.87.249.0-206.87.249.255
@@ -28787,7 +28791,7 @@ University City Housing:206.125.56.0-206.125.57.255
 Dominican College of Blauvelt:206.125.120.0-206.125.127.255
 University of Illinois Extension:206.125.132.16-206.125.132.47
 University of Illinois Extension:206.125.136.64-206.125.136.95
-Bass Elementary School CPS Vendor#28184:206.126.239.0-206.126.239.63
+Bass Elementary School CPS Vendor
 Sacred Heart Schools:206.126.241.0-206.126.241.79
 MacCormac College:206.126.254.0-206.126.254.127
 St. Edwards University:206.127.25.0-206.127.25.255
@@ -28903,7 +28907,7 @@ Kaplan University:206.192.34.0-206.192.34.255
 Marlboro College:206.192.68.0-206.192.69.255
 North Hunterdon-Voorhees Regional High School District:206.192.112.0-206.192.112.255
 University of New Mexico HealthSciences Center:206.192.128.0-206.192.191.255
-Spokane School District # 81:206.193.0.0-206.193.63.255
+Spokane School District 
 Clark County Public Education Foundation:206.194.0.0-206.194.63.255
 Covenant Bible College:206.196.154.192-206.196.154.255
 University of Maryland Network Operations Center:206.196.160.0-206.196.191.255
@@ -29073,12 +29077,12 @@ School District 73 (Kamloops/Thompson):207.23.160.0-207.23.174.255
 BC School District 73:207.23.174.0-207.23.174.255
 Gladstone High School:207.23.177.0-207.23.177.255
 Austin Elementary School:207.23.181.0-207.23.181.255
-School District #36 (Surrey):207.23.192.0-207.23.223.255
-BC School District #36:207.23.192.0-207.23.223.255
-School District #24 Office:207.23.224.0-207.23.224.255
-Portage la Prairie School Division #24:207.23.226.0-207.23.231.255
-School District #42, Maple Ridge:207.23.250.0-207.23.250.255
-BC School District #42:207.23.250.0-207.23.250.255
+School District 
+BC School District 
+School District 
+Portage la Prairie School Division 
+School District 
+BC School District 
 Dorset College:207.23.251.0-207.23.251.255
 University of British Columbia:207.23.254.0-207.23.254.255
 University of British Columbia UBC-AGCAN (NET-207-23-254-0-1):207.23.254.0-207.23.254.255
@@ -29176,7 +29180,7 @@ Central Texas Education Network (CTEN):207.54.192.0-207.54.255.255
 Lemont High School:207.56.0.0-207.56.0.255
 University School:207.56.72.0-207.56.72.255
 Joliet Junior College:207.56.152.0-207.56.159.255
-Community Consolidated School District #146:207.56.224.0-207.56.225.255
+Community Consolidated School District 
 Community Consolidated School District 15:207.57.208.0-207.57.223.255
 Community Consolidated School District 15:207.57.240.0-207.57.247.255
 SMV:207.58.143.0-207.58.143.255
@@ -29274,19 +29278,19 @@ Idaho City High School:207.70.15.0-207.70.15.127
 Blaine County School District:207.70.18.0-207.70.18.255
 Glenns Ferry School District:207.70.19.0-207.70.19.255
 Valley School District:207.70.20.0-207.70.20.255
-Kuna School District #3:207.70.21.0-207.70.21.255
+Kuna School District 
 McCall High School:207.70.24.0-207.70.24.255
 Malad School District 351:207.70.27.0-207.70.27.255
 Eastern Idaho Techical College:207.70.28.0-207.70.28.255
 Sacred Heart School:207.70.31.128-207.70.31.191
-Malad High School #351:207.70.35.0-207.70.35.255
-Middleton Schoold District #134:207.70.37.0-207.70.37.255
+Malad High School 
+Middleton Schoold District 
 Sacred Heart School:207.70.38.64-207.70.38.127
 American Falls School District:207.70.40.0-207.70.40.255
-Boundary County School District #101:207.70.48.0-207.70.48.255
-Bonner County School District #82:207.70.49.0-207.70.49.255
-Boundary County School District #101:207.70.50.0-207.70.51.255
-Meridian School District #2:207.70.52.0-207.70.52.255
+Boundary County School District 
+Bonner County School District 
+Boundary County School District 
+Meridian School District 
 Boise School District:207.70.54.0-207.70.55.255
 Vallivue School District:207.70.58.0-207.70.58.255
 Gem State Academy:207.70.61.0-207.70.61.255
@@ -29362,7 +29366,7 @@ Citrus Community College District:207.99.128.0-207.99.129.255
 Saugus Union School District:207.99.202.0-207.99.202.255
 Saugus Union School District:207.99.239.0-207.99.239.255
 Redondo Beach Unified School District:207.99.253.0-207.99.255.255
-School District #77:207.102.146.0-207.102.147.255
+School District 
 Beaver College:207.103.37.0-207.103.38.255
 Sacred Heart School:207.103.43.128-207.103.43.191
 Bucks Co. Community College:207.103.45.0-207.103.46.255
@@ -29412,7 +29416,7 @@ Maricopa County Schools:207.108.137.96-207.108.137.127
 Phoenix Elementary Schools:207.108.154.192-207.108.154.255
 Wasatch Academy:207.108.175.0-207.108.176.255
 Rowland Hall - St Mark\:207.108.182.0-207.108.183.255
-Preston School  District #201:207.108.235.0-207.108.239.255
+Preston School  District 
 New Mexico State University:207.108.245.224-207.108.245.255
 Santa Fe Indian School:207.108.246.128-207.108.246.255
 Minnehaha Academy:207.109.5.0-207.109.7.255
@@ -29508,7 +29512,7 @@ Port Washington School District:207.127.142.0-207.127.143.255
 Nysernet/Pratt Institute:207.127.153.0-207.127.153.255
 Nysernet/Broome Tioga BOCES:207.127.154.0-207.127.154.255
 Port Washington School District:207.127.162.0-207.127.162.255
-Nysernet/Monroe County Boces #1:207.127.176.0-207.127.183.255
+Nysernet/Monroe County Boces 
 Liverpool School District:207.127.184.0-207.127.185.255
 Nysernet/NYC Board of Education:207.127.202.0-207.127.202.255
 Nysernet/University of Rochester:207.127.224.0-207.127.227.255
@@ -29626,9 +29630,9 @@ Brooklyn Academy of Music:207.159.99.224-207.159.99.255
 Westfield State College:207.159.160.0-207.159.191.255
 Queens Borough Public Library:207.159.192.0-207.159.255.255
 MOREnet:207.160.0.0-207.160.255.255
-Swan Valley School Division #35:207.161.10.0-207.161.10.255
+Swan Valley School Division 
 Red River Community College:207.161.71.0-207.161.71.255
-Frontier School Division #48:207.161.78.0-207.161.80.255
+Frontier School Division 
 St. Norbert Collegiate:207.161.95.0-207.161.95.255
 Manitoba School for the Deaf:207.161.123.0-207.161.123.255
 Gray Academy of Jewish Education:207.161.144.0-207.161.144.63
@@ -29772,7 +29776,7 @@ Mesa Vista High School:207.188.165.0-207.188.165.255
 Rio Rancho Public Schools:207.188.176.0-207.188.180.255
 Los Alamos Public Schools:207.188.186.0-207.188.187.255
 Bloomfield Public Schools:207.188.188.0-207.188.191.255
-University Corporation for Atmospheric.(UCAR PO# P:207.188.234.32-207.188.234.63
+University Corporation for Atmospheric.(UCAR PO
 Addison Community Schools:207.190.160.0-207.190.160.255
 Adrian Public Schools:207.190.161.0-207.190.161.255
 Airport Community Schools:207.190.162.0-207.190.162.255
@@ -29821,15 +29825,15 @@ Burnaby School District:207.194.87.128-207.194.87.255
 University of Victoria/Marine UVIC1-CA (NET-207-194-253-32-1):207.194.253.32-207.194.253.63
 Coquitlam Library:207.194.254.128-207.194.254.255
 Frontier School:207.195.37.0-207.195.37.7
-Prairie West School Division #75:207.195.37.72-207.195.37.79
+Prairie West School Division 
 University of Regina UOFR-NET (NET-207-195-37-176-1):207.195.37.176-207.195.37.183
 Tisdale School Division:207.195.41.0-207.195.41.255
 St. Paul's Roman Catholic Separate School:207.195.82.0-207.195.85.255
-Saskatoon Public School Division #13:207.195.87.0-207.195.89.255
+Saskatoon Public School Division 
 SouthEast Regional College:207.195.99.32-207.195.99.79
 Canwood School:207.195.105.0-207.195.105.7
 South Corman Park School:207.195.105.128-207.195.105.135
-Meadow Lake School Division #66:207.195.105.248-207.195.105.255
+Meadow Lake School Division 
 ATEC Villa Julie College:207.196.6.0-207.196.6.255
 Council on Social Work Education:207.196.72.192-207.196.72.255
 ACCA:207.196.111.0-207.196.111.255
@@ -29926,7 +29930,7 @@ Bonner School:207.224.137.128-207.224.137.255
 New Mexico School for the Deaf:207.224.144.64-207.224.144.95
 Owatonna Public Schools:207.224.152.0-207.224.159.255
 Southern California University:207.224.168.0-207.224.168.255
-chandler Unified School District #80:207.224.170.0-207.224.177.255
+chandler Unified School District 
 PINAL COUNTY SCHOOLS:207.224.179.64-207.224.179.71
 Maricopa County Schools:207.224.179.96-207.224.179.103
 Maricopa Community College District:207.224.184.0-207.224.184.255
@@ -29935,7 +29939,7 @@ Computer Education Specialists, Inc:207.224.222.120-207.224.222.127
 Mitchell School District 17-2:207.225.11.0-207.225.13.255
 Bernalillo Public Schools:207.225.53.0-207.225.59.255
 Albuquerque Academy:207.225.62.0-207.225.62.255
-Parkrose School Dist #3:207.225.68.0-207.225.68.255
+Parkrose School Dist 
 Eagle County School District:207.225.116.0-207.225.116.255
 STEVENS HENAGER COLLEGE:207.225.221.64-207.225.221.95
 Mono County Office of Education:207.228.20.0-207.228.20.127
@@ -30188,10 +30192,10 @@ Rosemont College:208.28.81.0-208.28.82.255
 The College of Physicians of Philadelphia:208.28.83.0-208.28.83.255
 Berks Technical Institute:208.28.144.0-208.28.145.255
 Stafford County Public Schools:208.29.40.0-208.29.48.255
-Unified School District #224:208.29.49.0-208.29.49.255
+Unified School District 
 Virginia Polytechnic Institute and State Univ:208.29.54.0-208.29.54.255
 Palmer High School:208.29.77.0-208.29.77.255
-Unified School District #224:208.29.92.0-208.29.92.255
+Unified School District 
 St. Patricks School:208.31.30.32-208.31.30.63
 St. Joan Of Arc School:208.31.30.128-208.31.30.163
 King and Queen County Public Schools:208.31.68.0-208.31.68.255
@@ -30301,7 +30305,7 @@ HOLY FAMILY HIGH SCHOOL:208.46.96.64-208.46.96.95
 Governor Dummer Academy:208.46.129.32-208.46.129.63
 MTI College of Business:208.46.206.192-208.46.206.223
 University of Tennessee, Martin:208.47.4.0-208.47.35.255
-Plateau Valley School Disrict #50:208.47.128.0-208.47.128.255
+Plateau Valley School Disrict 
 Connecticut Library Network:208.47.162.0-208.47.165.255
 3974.MRCY:208.49.141.0-208.49.141.255
 Cleveland Institute of Art:208.50.108.0-208.50.108.127
@@ -30363,7 +30367,7 @@ North East Georgia RESA:208.62.65.128-208.62.65.191
 Beulah Heights Bible College:208.62.83.96-208.62.83.127
 McGill-Toolen Catholic High School:208.62.100.64-208.62.100.95
 Clarke County Schools:208.62.101.192-208.62.101.199
-Clarke County Schools #2:208.62.101.200-208.62.101.207
+Clarke County Schools 
 Lincoln Memorial University:208.62.122.224-208.62.122.255
 Dempolis City School System:208.62.139.160-208.62.139.191
 Father Lopez High School:208.62.140.0-208.62.140.127
@@ -30402,7 +30406,7 @@ Bibb County Schools/ Board of Education:208.63.117.224-208.63.117.255
 Shelby City Schools:208.63.122.64-208.63.122.95
 City of Chanute Public Library:208.64.128.16-208.64.128.31
 Neosho County Community College:208.64.128.64-208.64.128.143
-Unified School District #413:208.64.128.192-208.64.128.223
+Unified School District 
 Brownsville Independent School District:208.65.16.0-208.65.19.255
 Voorhees College:208.66.4.0-208.66.7.255
 St. Edwards University:208.66.176.0-208.66.179.255
@@ -30491,7 +30495,7 @@ Sacred Heart School:208.188.230.120-208.188.230.127
 Lutheran High School Association of St. Louis.6406:208.188.233.0-208.188.233.31
 Chase County Unified School District No:208.189.19.128-208.189.19.255
 Hutchinson Public Library:208.189.23.128-208.189.23.255
-Unified School District #286:208.189.31.48-208.189.31.63
+Unified School District 
 Washington Grade School:208.189.38.128-208.189.38.191
 LEARNING CENTER-050718230936:208.189.41.112-208.189.41.119
 South Coffeyville Public Schools:208.189.50.0-208.189.50.255
@@ -30569,7 +30573,7 @@ Darien Library:208.197.128.0-208.197.128.255
 Council on Library and  Information Resources:208.198.58.128-208.198.58.159
 Carroll County Public Library:208.198.210.0-208.198.211.255
 Erie 1 BOCES:208.199.32.0-208.199.32.7
-High School District #214:208.199.149.16-208.199.149.23
+High School District 
 Friendswood Public Library:208.200.0.64-208.200.0.127
 Junipero Serra High School:208.200.167.0-208.200.167.255
 Educational Insights:208.201.132.0-208.201.132.255
@@ -31045,7 +31049,7 @@ New Horizons Computer Learning Center:209.58.239.240-209.58.239.255
 Clark County Educ Assoc:209.58.241.128-209.58.241.143
 Berklee College of Music:209.59.0.168-209.59.0.171
 Berklee College of Music:209.59.13.144-209.59.13.159
-AUBURN SCHOOL DISTRICT #408:209.59.224.0-209.59.255.255
+AUBURN SCHOOL DISTRICT 
 Scientific Learning Principles:209.60.4.64-209.60.4.95
 American College of Neuropsychopharmacology:209.60.10.96-209.60.10.111
 Westminster School District:209.60.92.0-209.60.92.255
@@ -31232,7 +31236,7 @@ BCnet:209.87.0.0-209.87.63.255
 WebCT Educational Technologies:209.87.17.0-209.87.17.255
 Prince George Public Library:209.87.18.0-209.87.18.255
 Simon Fraser University (NETBLK-HAZARD-LAB):209.87.31.0-209.87.31.255
-Portage la Prairie School Division #24:209.87.32.0-209.87.33.255
+Portage la Prairie School Division 
 Institute of Chartered Accountants on BC:209.87.52.0-209.87.52.255
 Simon Fraser University - SURREY:209.87.56.0-209.87.60.255
 Computers for Schools:209.87.226.64-209.87.226.79
@@ -31424,7 +31428,7 @@ ACADEMY TAXI AS:209.137.181.216-209.137.181.223
 Livingston Public Schools:209.137.246.48-209.137.246.55
 Lockwood Schools:209.137.247.128-209.137.247.143
 Billings Public Schools:209.137.247.192-209.137.247.255
-Billings School District #2:209.137.247.192-209.137.247.255
+Billings School District 
 Institute of Business & Computer Technology:209.139.2.0-209.139.2.127
 SUFFOLK Cooperative Library System:209.139.6.0-209.139.6.255
 Suffolk Cooperative Library System:209.139.22.0-209.139.23.255
@@ -31709,7 +31713,7 @@ CHRISTIAN MONTESSORI SCHOOL OF LAKE NORMAN:209.168.251.168-209.168.251.175
 Louisiana State University:209.169.35.192-209.169.35.207
 George Fox University:209.170.224.0-209.170.255.255
 CARNEGIE MELLON UNIVERSITY:209.172.121.192-209.172.121.207
-McHenry School Dist. #15:209.172.151.0-209.172.151.255
+McHenry School Dist. 
 Hebron School:209.172.171.128-209.172.171.159
 Mother Guerin High School:209.172.182.72-209.172.182.79
 Hammond School District:209.172.184.16-209.172.184.23
@@ -32043,7 +32047,7 @@ Marion Public Library:209.207.38.160-209.207.38.191
 Hiawatha Public Library:209.207.38.192-209.207.38.255
 Lancaster School:209.207.42.16-209.207.42.31
 Freeport School District:209.207.42.64-209.207.42.127
-Forrestville Valley School District #221:209.207.46.64-209.207.46.127
+Forrestville Valley School District 
 Rock Valley College:209.207.54.0-209.207.55.255
 ABC Unified School District:209.207.64.0-209.207.127.255
 TIS College Bookstore:209.208.15.0-209.208.15.15
@@ -32233,7 +32237,6 @@ AMERICAN DISTANCE EDUCATION CONSORTIUM:209.242.154.64-209.242.154.127
 AMERICAN DISTANCE EDUCATION CONSORTIUM:209.242.165.0-209.242.166.255
 Rider University:209.242.176.0-209.242.191.255
 Washington College:209.243.32.0-209.243.47.255
-San Luis Valley Area Health Education Center:209.248.70.32-209.248.70.47
 Aurora Academy:209.248.72.208-209.248.72.215
 Aspen Music School:209.248.76.208-209.248.76.215
 Aspen Music School:209.248.76.224-209.248.76.231
@@ -34584,6 +34587,7 @@ Cheolsan elementary school:210.97.34.0-210.97.34.63
 Yongdu Elementary School:210.97.34.128-210.97.34.255
 HANKUK YUKYONG SCHOOL:210.97.35.0-210.97.35.127
 Chunggae Elementary School:210.97.35.128-210.97.35.191
+Eonju Middle School:210.97.35.192-210.97.35.255
 Sungil Elementary School:210.97.36.128-210.97.36.255
 Myungil Elementary School:210.97.38.0-210.97.38.63
 Chunggoo Elementary School:210.97.38.128-210.97.38.255
@@ -39908,7 +39912,7 @@ Benedict School:212.2.37.104-212.2.37.111
 Trollhattans Kommun KUB:212.3.28.128-212.3.28.191
 Trollhattans Kommun KUB:212.3.31.0-212.3.31.15
 Dnipropetrovsk national university:212.3.125.0-212.3.125.255
-SCANDINAVIAN-SCHOOL NCC#2000074335:212.3.246.192-212.3.246.255
+SCANDINAVIAN-SCHOOL NCC
 Private owned University Network for students and:212.4.9.48-212.4.9.63
 New University of Humanities by Natalia Nesterova:212.5.107.16-212.5.107.31
 Institute of Microprocessing Computing Systems:212.5.112.0-212.5.112.255
@@ -40513,7 +40517,7 @@ LONDON-METROPOLITAN-UNIVERSITY:212.169.23.232-212.169.23.239
 Routed Connection:212.169.54.232-212.169.54.239
 Research Machines plc:212.173.0.0-212.173.255.255
 Kadir Has Universitesi:212.174.2.192-212.174.2.255
-Koc Universitesi - NCC#2006030263:212.174.43.128-212.174.43.255
+Koc Universitesi - NCC
 Nigde Universitesi:212.174.142.0-212.174.142.255
 Selcuk Universitesi:212.174.158.0-212.174.158.127
 Anadolu Universitesi Acikogretim Fakultesi:212.174.179.0-212.174.179.127
@@ -40795,7 +40799,7 @@ UMDAC, Umea University:212.217.128.0-212.217.255.255
 JANET:212.219.0.0-212.219.255.255
 Institute of Economy:212.220.52.0-212.220.52.127
 Ural\'s state teacher\'s training university filial:212.220.185.200-212.220.185.203
-Ural&#8217;s state university filial:212.220.188.188-212.220.188.191
+Ural&
 Ural State Technical University - UPI, University:212.220.191.228-212.220.191.235
 Urals State Technical University:212.220.201.0-212.220.201.255
 Urals Architecture and Building College:212.220.230.0-212.220.230.255
@@ -41816,6 +41820,7 @@ Educational Network (EduNet) Ltd:213.184.128.0-213.184.159.255
 Educational Network Ltd:213.184.150.0-213.184.150.255
 LAN in school:213.186.86.0-213.186.86.63
 Al-Quds College:213.186.161.80-213.186.161.87
+Princess Sumaya Univercity for Technology:213.186.161.144-213.186.161.159
 Arab Open University:213.186.162.160-213.186.162.167
 The University of Graduate studies:213.186.162.232-213.186.162.239
 Al Ahliyyah Amman University:213.186.167.136-213.186.167.143
@@ -42107,7 +42112,7 @@ BUSINESS EDUCATION COUNCIL OF NIAGARA:216.13.146.0-216.13.146.255
 MCDONALD INTERNATIONAL ACADEMY:216.13.152.232-216.13.152.239
 KING GEORGE INTERNATIONAL COLLEGE:216.13.164.240-216.13.164.255
 Continuing Legal Education Society of B.C:216.13.201.192-216.13.201.199
-School District #6:216.14.224.184-216.14.224.191
+School District 
 Pipestone Jasper Schools:216.16.13.72-216.16.13.79
 Storm Lake Community Schools:216.16.42.112-216.16.42.127
 Education Assistance Corp:216.16.101.0-216.16.101.255
@@ -42198,7 +42203,7 @@ University Otolaryngologists, Inc:216.29.63.0-216.29.63.255
 Nyos Charter School:216.30.11.192-216.30.11.223
 Texas Computer Education Association:216.30.62.240-216.30.62.255
 Central texas Library Systems:216.30.103.104-216.30.103.111
-ll#35020 JPN-The National Alliance for Insurance Education & Research psr 1515804:216.30.133.112-216.30.133.119
+ll
 Educational Self:216.30.192.8-216.30.192.15
 University Pediatrics Teays:216.30.194.200-216.30.194.207
 Davis and Elkins College:216.30.199.0-216.30.199.255
@@ -42276,7 +42281,7 @@ Mattoon Public Schools:216.43.18.160-216.43.18.191
 Richland Community College:216.43.22.128-216.43.22.143
 Laidlaw Transit Inc:216.43.26.168-216.43.26.175
 CHILDREN'S ACADEMY:216.43.46.131-216.43.46.138
-Community Unit School Dist #305-ART:216.43.54.32-216.43.54.47
+Community Unit School Dist 
 St Joan of Arc School:216.43.96.128-216.43.96.135
 Academia Cesar Chavez Charter:216.43.109.32-216.43.109.39
 Indiana Youth Institute:216.43.137.88-216.43.137.95
@@ -42409,7 +42414,7 @@ Ysleta Independent School District:216.63.248.0-216.63.251.255
 Stanislaus County Office of Education:216.64.224.0-216.64.239.255
 Portland Community College:216.64.240.0-216.64.255.255
 Advanced Academics:216.65.199.128-216.65.199.191
-Converse County School District #2:216.67.131.0-216.67.132.255
+Converse County School District 
 St. Henry District High School:216.68.26.32-216.68.26.47
 Professional Education Co:216.68.27.224-216.68.27.255
 UC Clermont College:216.68.72.0-216.68.72.31
@@ -42582,7 +42587,7 @@ LOUISIANA RESOURCE CENTER FOR EDUCATORS:216.84.44.96-216.84.44.103
 Fusion Learning Systems:216.84.44.240-216.84.44.255
 University Associates:216.84.55.168-216.84.55.175
 LeMoyne Owen College:216.84.56.64-216.84.56.127
-Fountain - Fort Carson School District #8:216.84.56.128-216.84.56.191
+Fountain - Fort Carson School District 
 Paul Quinn College:216.84.63.224-216.84.63.239
 James Irwin Charter School - Elementary:216.84.64.144-216.84.64.159
 Arizona Academy of Beauty:216.84.70.0-216.84.70.7
@@ -42591,7 +42596,7 @@ Academy of Driving:216.84.120.104-216.84.120.111
 Episcopal High School:216.84.124.160-216.84.124.167
 East Baton Rouge Arts & Technology School:216.84.128.128-216.84.128.255
 David Lipscomb University:216.84.157.80-216.84.157.87
-Mohave Valley Elementary School Dist #16:216.84.168.0-216.84.169.255
+Mohave Valley Elementary School Dist 
 Re- Birth Academy:216.84.195.152-216.84.195.159
 National Junior College Athletic Association:216.85.4.112-216.85.4.119
 Academy Brokers:216.85.6.88-216.85.6.95
@@ -42816,6 +42821,7 @@ Community Learning Centre (Gjoa Haven):216.108.90.224-216.108.90.255
 Qitiqliq School:216.108.92.0-216.108.92.127
 Levi Angnak School:216.108.92.128-216.108.92.255
 Rachel Arngnammaktiq School:216.108.93.0-216.108.93.127
+Jonah Amitnaaq School:216.108.93.128-216.108.93.255
 Community Learning Centre (Cape Dorset):216.108.94.0-216.108.94.31
 Peter Pitseolak School:216.108.94.32-216.108.94.63
 Takijualuk School:216.108.96.0-216.108.96.127
@@ -42853,8 +42859,8 @@ Palm Beach Community College:216.114.80.0-216.114.95.255
 STAMFORD ELEMENTARY:216.114.151.0-216.114.151.127
 Blue Earth Area Schools:216.114.230.160-216.114.230.191
 Granada - Huntley - East Chain Public Schools:216.114.230.224-216.114.230.255
-Fairmont Public Schools #1:216.114.239.24-216.114.239.31
-Truman Public Schools #1:216.114.239.144-216.114.239.151
+Fairmont Public Schools 
+Truman Public Schools 
 Our Lady of Fatima School:216.115.235.160-216.115.235.167
 Belleweather Learning:216.117.2.192-216.117.2.223
 Notre Dame - OIT:216.117.16.8-216.117.16.15
@@ -42897,7 +42903,7 @@ The Investor Learning Centre of Canada:216.123.49.120-216.123.49.127
 Crestwood School:216.123.49.128-216.123.49.255
 College Jean Eudes:216.123.114.0-216.123.114.127
 JH Picard School:216.126.22.128-216.126.22.159
-Sturgeon School Division #24:216.126.25.160-216.126.25.191
+Sturgeon School Division 
 Educational Advantage:216.126.27.192-216.126.27.223
 Northern Alberta Institute of Technology:216.126.31.0-216.126.31.255
 Blessed Sacrament School:216.126.213.0-216.126.213.127
@@ -42945,8 +42951,8 @@ Block Yeshiva High School-1:216.130.35.144-216.130.35.151
 Block Yeshiva High School-2:216.130.35.152-216.130.35.159
 H.F.Epstein Hebrew Academy-1:216.130.35.192-216.130.35.199
 H.F.Epstein Hebrew Academy-3:216.130.35.208-216.130.35.215
-Mount St Mary Academy #2:216.130.36.96-216.130.36.111
-Lutheran High School South #2:216.130.37.16-216.130.37.47
+Mount St Mary Academy 
+Lutheran High School South 
 Victory Christian School:216.130.37.176-216.130.37.191
 Mesiah Lutheran School:216.130.40.160-216.130.40.175
 Washington Lutheran School:216.130.40.176-216.130.40.191
@@ -43093,7 +43099,7 @@ Sister Rosalind Gefre's School of Professional Massage:216.160.43.72-216.160.43.
 Sister Rosalind Gefre's School of Professional Mas:216.160.43.72-216.160.43.79
 Business Economics Education Foundation:216.160.43.112-216.160.43.119
 KaosHitech Institute:216.160.68.96-216.160.68.103
-Bellevue SchoolDistrict #405:216.160.77.128-216.160.77.135
+Bellevue SchoolDistrict 
 Blessed Sacrament School:216.160.130.24-216.160.130.31
 eCollege.com - Brad Adams:216.160.135.56-216.160.135.63
 Platte River Academy:216.160.141.24-216.160.141.31
@@ -43146,7 +43152,7 @@ SHEPHERD SCHOOL DISTRICT 37:216.166.137.176-216.166.137.191
 Laurel School District:216.166.139.128-216.166.139.255
 St. Charles School:216.166.143.192-216.166.143.255
 Butte Central High School:216.166.145.120-216.166.145.127
-Walla Walla College - Fort Missoula Bldg. #27:216.166.145.224-216.166.145.239
+Walla Walla College - Fort Missoula Bldg. 
 Manhattan Public School:216.166.151.0-216.166.151.31
 Belgrade Public Schools:216.166.179.64-216.166.179.127
 Walla Walla College Billings Campus:216.166.181.64-216.166.181.95
@@ -43298,17 +43304,17 @@ Wahkiakum School District:216.186.31.0-216.186.31.255
 Nine Mile Falls School District:216.186.32.0-216.186.34.255
 Orient School District:216.186.35.0-216.186.35.31
 Star School District:216.186.35.64-216.186.35.95
-Summit Valley School District #202:216.186.35.96-216.186.35.127
-Orchard Prairie School District #123:216.186.35.128-216.186.35.159
-Lamont School District #264:216.186.35.160-216.186.35.191
+Summit Valley School District 
+Orchard Prairie School District 
+Lamont School District 
 Great Northern School District:216.186.35.224-216.186.35.255
-Touchet School District #300:216.186.36.0-216.186.36.127
-Touchet School District #300:216.186.36.128-216.186.36.255
+Touchet School District 
+Touchet School District 
 Wishram School District:216.186.37.0-216.186.37.127
 Harrington School District:216.186.37.128-216.186.37.255
 Freeman School District:216.186.38.0-216.186.39.255
-Starbuck School District #35:216.186.40.0-216.186.40.63
-Dixie School District #101:216.186.40.128-216.186.40.191
+Starbuck School District 
+Dixie School District 
 Cosmopolis School District No. 99:216.186.40.192-216.186.40.255
 Mead School District:216.186.41.0-216.186.41.7
 Central Washington University Server LAN:216.186.41.8-216.186.41.15
@@ -43322,8 +43328,8 @@ Eastern Washington University DMZ:216.186.41.96-216.186.41.103
 Valley School District No. 70:216.186.41.128-216.186.41.255
 Roosevelt School District:216.186.42.0-216.186.42.15
 Washington State University - Vancouver DMZ:216.186.42.24-216.186.42.31
-Chewelah School District #36:216.186.42.32-216.186.42.47
-Steptoe School District #304:216.186.42.48-216.186.42.63
+Chewelah School District 
+Steptoe School District 
 Evaline School District No. 36:216.186.42.64-216.186.42.95
 Benge School District No. 122:216.186.42.96-216.186.42.111
 Shaw Island School District:216.186.42.128-216.186.42.159
@@ -43331,27 +43337,27 @@ Palisades School District:216.186.42.160-216.186.42.191
 Colfax School Distrcit No. 300:216.186.42.192-216.186.42.207
 Saint Martin:216.186.42.216-216.186.42.223
 Satsop School District No. 104:216.186.42.224-216.186.42.255
-Keller School District #3:216.186.43.0-216.186.43.63
-Mount Pleasant School District #29-93:216.186.43.64-216.186.43.127
-Colton School District #302:216.186.43.128-216.186.43.191
+Keller School District 
+Mount Pleasant School District 
+Colton School District 
 Skamania School District:216.186.43.192-216.186.43.255
-Fife School District #417:216.186.44.0-216.186.47.255
+Fife School District 
 Centerville School District:216.186.48.0-216.186.48.63
 Educational Service District 121 Server Segment:216.186.48.64-216.186.48.127
 Columbia School District No. 206:216.186.48.128-216.186.48.255
 Taholah School District No. 77:216.186.49.0-216.186.49.127
 Quinault Lake School District No. 97:216.186.49.128-216.186.49.255
-Palouse School District #301:216.186.50.0-216.186.50.127
-Lind School District #158:216.186.50.128-216.186.50.255
+Palouse School District 
+Lind School District 
 Highline School District:216.186.51.0-216.186.51.255
 Seattle School District:216.186.52.0-216.186.55.255
 Richland School District:216.186.56.0-216.186.56.255
 Okanogan School District:216.186.57.0-216.186.57.255
 Endicott School District:216.186.58.0-216.186.58.255
-St. John School District #322:216.186.59.0-216.186.59.127
+St. John School District 
 Mary Walker School District 207:216.186.60.128-216.186.60.255
 Paterson School District:216.186.61.0-216.186.61.63
-Touchet School District #300:216.186.61.128-216.186.61.191
+Touchet School District 
 Seattle School District:216.186.62.0-216.186.63.255
 Cascadia Community College LB1 Library:216.186.64.0-216.186.66.255
 Cascadia Community College Bldg Two:216.186.67.0-216.186.71.255
@@ -43455,7 +43461,7 @@ Currier Museum of Art:216.204.67.104-216.204.67.111
 Milford Schools SAU 40:216.204.69.8-216.204.69.15
 Hesser College:216.204.69.56-216.204.69.63
 Meeting School, The:216.204.69.136-216.204.69.143
-School Union #132:216.204.70.136-216.204.70.143
+School Union 
 Bridge Education:216.204.72.80-216.204.72.87
 Fessenden School, The:216.204.83.72-216.204.83.79
 Massachusetts College of Pharmacy and Allied Health:216.204.89.72-216.204.89.79
@@ -43476,9 +43482,9 @@ Regional Education & Business Alliance:216.204.142.48-216.204.142.55
 Roxbury Charter School:216.204.142.224-216.204.142.231
 Spurwink School, The:216.204.143.128-216.204.143.143
 Plymouth Regional High School:216.204.155.8-216.204.155.15
-Claremont Schools SAU #6:216.204.155.16-216.204.155.31
+Claremont Schools SAU 
 Spurwink School, The:216.204.161.0-216.204.161.7
-School Union #132:216.204.161.24-216.204.161.31
+School Union 
 French River Education Center:216.204.179.32-216.204.179.39
 Seacoast Learning Collaborative:216.204.189.72-216.204.189.79
 Nativity School of Worcester, The:216.204.193.16-216.204.193.31
@@ -43626,7 +43632,7 @@ Peoples Christian Academy - High School Division:216.223.158.248-216.223.158.255
 KD Software:216.224.235.16-216.224.235.31
 Ecole Marcelle-Mallet:216.226.39.0-216.226.39.127
 ecole du Barreau:216.226.49.8-216.226.49.15
-Monroe #1 BOCES:216.226.96.0-216.226.127.255
+Monroe 
 Waterville Public Schools:216.227.189.0-216.227.189.26
 St. Joseph Catholic School:216.228.71.113-216.228.71.127
 Washington State PTA:216.228.71.161-216.228.71.191
@@ -48011,6 +48017,7 @@ Future University-Hakodate:221.186.100.216-221.186.100.223
 school of nursing,osaka prefecture university:221.186.104.144-221.186.104.151
 Kansai Gaidai University:221.186.108.48-221.186.108.55
 fujita health university:221.186.112.64-221.186.112.71
+HIROSHIMA INTERNATIONAL UNIVERSITY:221.186.118.224-221.186.118.231
 Kochi University of Technology:221.186.123.8-221.186.123.15
 Kurume University:221.186.126.232-221.186.126.239
 Tokiwa University:221.186.128.184-221.186.128.191
@@ -48168,7 +48175,6 @@ CHANGCHUN CITY,CHUANMEI COLLEGE,:222.161.35.80-222.161.35.87
 CHANGCHUN CITY,NANLING SCHOOL,:222.161.35.88-222.161.35.95
 CHANGCHUN CITY,GAILUN SCHOOL,:222.161.36.44-222.161.36.47
 CHANGCHUN CITY,KAIYUN SCHOOL,:222.161.36.104-222.161.36.111
-CHANGCHUN CITY,JINJIGUANLI COLLEGE,:222.161.50.0-222.161.50.15
 CHANGCHUN CITY,DONGANLU SCHOOL,:222.161.58.96-222.161.58.99
 CHANGCHUN CITY,XIWU SCHOOL,:222.161.58.176-222.161.58.183
 Eastern University - Tricomalee Campus:222.165.153.32-222.165.153.39

@@ -108,6 +108,7 @@ icansearch.net[CWS]:38.117.144.30-38.117.144.30
 find-itnow.com[CWS]:38.117.144.50-38.117.144.51
 008i/8ad/ad25/ad45/ad77/ad86[CWS]:38.117.144.162-38.117.144.162
 Cydoor Technologies:38.117.174.0-38.117.175.255
+AWS - Weatherbug:38.118.78.0-38.118.78.255
 spyware.junglebee.com:38.118.142.170-38.118.142.170
 pest related,crossroad.trekdata.com ads:38.118.144.180-38.118.144.188
 www.Spynuker.com[Spy]:38.118.144.185-38.118.144.185
@@ -192,7 +193,7 @@ trojans:60.191.223.76-60.191.223.76
 baigoo.com:60.195.253.79-60.195.253.79
 www.sw000.cn:60.209.126.119-60.209.126.119
 Gumblar attack:60.248.130.83-60.248.130.83
-Overture Services Australia Pty Ltd. #2:61.14.186.8-61.14.186.15
+Overture Services Australia Pty Ltd. 
 Yambo botnet:61.17.216.4-61.17.216.4
 Asprox:61.19.32.24-61.19.32.24
 Zbot C&C:61.38.200.5-61.38.200.5
@@ -216,6 +217,7 @@ www.baoma9999.cn:61.191.190.64-61.191.190.64
 Overture Services, Inc:61.213.167.128-61.213.167.255
 xapaxapa.ru:61.235.117.85-61.235.117.85
 Persistent hacking of known NTP and SYSLOG vulnerabilities:61.240.144.64-61.240.144.67
+Trojan-mmdom.exe-62.4.84.41.cybertechnology.nl[Spy:62.4.84.41-62.4.84.41
 Trojan-minst.exe-62.4.84.45.cybertechnology.nl[Spy:62.4.84.45-62.4.84.45
 E GROUP:62.39.85.0-62.39.85.255
 www.lyred.com:62.65.191.10-62.65.191.10
@@ -1277,6 +1279,7 @@ privacysecuredupdate.com:78.46.86.4-78.46.86.4
 ie-security-config.com:78.46.88.142-78.46.88.142
 malware server:78.46.88.202-78.46.88.202
 protected-clicks-system.com:78.46.101.234-78.46.101.234
+trusted-liveclicks.com:78.46.101.234-78.46.101.234
 www.spy-protector-pro.com:78.46.152.8-78.46.152.8
 fake scanner:78.46.205.69-78.46.205.69
 advancedantivirusscan.com:78.46.216.237-78.46.216.237
@@ -1313,6 +1316,7 @@ kaspersky-full.info:78.129.142.235-78.129.142.237
 olinredr2.com:78.129.158.68-78.129.158.68
 top-pornnet.com:78.129.166.166-78.129.166.166
 wwwsafetyscan.com:78.129.166.225-78.129.166.225
+Fake DNS server for Gumblar attack:78.129.233.17-78.129.233.17
 Asprox Backdoor:78.138.118.127-78.138.118.127
 Asprox Backdoor:78.138.127.174-78.138.127.174
 gettotalsec2008.com:78.157.141.6-78.157.141.6
@@ -1350,8 +1354,10 @@ protectionfastscanner.com:78.159.118.144-78.159.118.144
 Malware:79.127.127.66-79.127.127.66
 ab-outstat.net:79.135.187.70-79.135.187.70
 freegreenstats.com:79.135.187.95-79.135.187.95
+Asprox C&C:79.143.186.59-79.143.186.59
 www.virtrigger.com:79.171.23.163-79.171.23.163
 unpck.com:79.174.64.209-79.174.64.209
+trojans:79.177.125.179-79.177.125.179
 Zeus bot Command & Control server (ikone.net):80.67.17.42-80.67.17.42
 www.dotcomtoolbar.com[Spy]:80.69.74.18-80.69.74.18
 worldtostart.com|dollarrevenue:80.69.74.23-80.69.74.23
@@ -1365,7 +1371,6 @@ razespyware/paintertraffic:80.77.85.124-80.77.85.124
 Spyware scam hijackers:80.77.88.98-80.77.88.98
 StatsCash:80.77.91.205-80.77.91.205
 hijacks:80.77.92.78-80.77.92.78
-teleteamwork.dk:80.80.19.94-80.80.19.94
 Nuclear Exploit Kit:80.85.84.142-80.85.84.142
 Nuclear Exploit Kit:80.85.84.188-80.85.84.188
 Nuclear Exploit Kit:80.85.85.71-80.85.85.71
@@ -1388,7 +1393,6 @@ traffsale.biz:81.9.5.10-81.9.5.10
 www.2378.ru toolbar:81.19.75.139-81.19.75.139
 topconverting.com:81.23.227.8-81.23.227.8
 ns2.topconverting.com[Spy]:81.23.227.26-81.23.227.26
-crazywinnings.com:81.23.227.66-81.23.227.66
 static.topconverting.com:81.23.227.67-81.23.227.67
 the-exit.com[CWS]:81.23.227.122-81.23.227.122
 callsolutions.biz:81.29.241.234-81.29.241.234
@@ -1520,7 +1524,6 @@ malicious SWF files:84.243.252.84-84.243.252.85
 malicious SWF files:84.243.252.91-84.243.252.91
 malicious SWF files:84.243.252.94-84.243.252.94
 malicious SWF files:84.243.252.97-84.243.252.97
-Fake spyware alerts:84.243.253.220-84.243.253.220
 sp2msupdateresearch.com|dollarRevenue:85.12.45.7-85.12.45.7
 auto.daily-weather.com:85.17.1.103-85.17.1.103
 cdn.drivecleaner.com:85.17.4.101-85.17.4.101
@@ -1580,7 +1583,6 @@ scarddlg.com:85.255.118.11-85.255.118.11
 spyheal.com|hijack-scam:85.255.118.58-85.255.118.58
 the.dawnsoul.net|IRC hijack:86.108.118.185-86.108.118.185
 ZeuS - CryptoLocker:86.124.164.25-86.124.164.25
-Asprox:87.106.4.78-87.106.4.78
 AsproxBotnet:87.106.73.220-87.106.73.220
 Domain-Squatter:87.106.163.145-87.106.163.145
 Hijack|BT:87.117.195.22-87.117.195.22
@@ -1588,6 +1590,7 @@ Hijack|BT:87.117.195.27-87.117.195.27
 intcodec scams:87.117.197.113-87.117.197.113
 Fake spyware alerts:87.117.252.11-87.117.252.11
 Sweet Orange Exploit Kit:87.118.126.94-87.118.126.94
+Asprox:87.118.140.104-87.118.140.104
 Malware Redirects:87.125.87.99-87.125.87.99
 11hilf.com:87.206.35.18-87.206.35.18
 Andromeda:87.228.4.110-87.228.4.110
@@ -1614,7 +1617,6 @@ fullteenporn.com:88.208.21.110-88.208.21.110
 Googost Rootkit:88.208.57.103-88.208.57.103
 W32/EMailWorm/7Web network RU:88.212.221.10-88.212.221.10
 lilaccube.com:88.214.198.26-88.214.198.26
-AQTRAVEL.INFO:88.214.200.55-88.214.200.55
 security-domain.net:88.214.202.5-88.214.202.5
 investmentguard.co.uk:88.214.235.190-88.214.235.190
 Asprox:88.255.149.11-88.255.149.11
@@ -1693,6 +1695,7 @@ fixaserver.ru|Trojan|BT:91.203.92.27-91.203.92.27
 www.lovelypornovideo.net:91.203.93.21-91.203.93.21
 getneededsoftware.com:91.203.93.25-91.203.93.25
 antivirus-rapid-scanner.com:91.203.93.68-91.203.93.68
+Fake DNS server for Gumblar attack:91.203.134.123-91.203.134.123
 Malware:91.204.48.50-91.204.48.50
 Phorm UK Inc:91.205.220.0-91.205.223.255
 DELTA-X Ltd:91.206.200.0-91.206.201.255
@@ -1825,6 +1828,7 @@ www.sysantivirus2009.com:94.247.2.75-94.247.2.75
 trojans:94.247.2.76-94.247.2.76
 files.msas2009-download.com:94.247.2.84-94.247.2.84
 dl.ms-as-storage.com:94.247.2.88-94.247.2.88
+int.sysreport1.com:94.247.2.92-94.247.2.92
 int.sysreport2.com:94.247.2.94-94.247.2.94
 images-humanity.com:94.247.2.113-94.247.2.113
 top100image.com-humorbestimages.com:94.247.2.116-94.247.2.117
@@ -1872,7 +1876,6 @@ emule.p2p.com:96.6.102.102-96.6.102.102
 11hilf.com:96.255.67.250-96.255.67.250
 wowmatrixz.com:98.126.38.194-98.126.38.194
 www.securitysetup.net:98.131.56.216-98.131.56.216
-kijru8f.biz:98.136.50.188-98.136.50.188
 Malware Redirects:98.142.243.64-98.142.243.64
 ns2.netwithuse.com:99.54.69.1-99.54.69.1
 goodboomer.com:99.140.246.193-99.140.246.193
@@ -2158,6 +2161,7 @@ Malware:185.18.52.123-185.18.52.123
 Asprox:185.53.130.171-185.53.130.171
 Asprox:185.53.130.173-185.53.130.173
 Asprox:186.192.8.13-186.192.8.13
+Asprox:187.16.250.212-187.16.250.212
 Asprox:187.16.250.214-187.16.250.214
 Cridex rootkit control server:188.40.0.138-188.40.0.138
 FlashPack Exploit Kit:188.40.249.74-188.40.249.74
@@ -2209,10 +2213,10 @@ click-123.com:192.216.159.132-192.216.159.132
 50dollargiftcard.com:192.216.159.159-192.216.159.159
 Asprox:192.227.156.82-192.227.156.82
 Asprox:192.254.197.210-192.254.197.210
-www.youfindall.com[CWS]:193.15.1.47-193.15.1.47
 keylogger:193.27.246.50-193.27.246.50
 trojans:193.27.246.192-193.27.246.192
 www.rusibank.com:193.27.246.195-193.27.246.195
+THIMBLE Networks (Webair):193.53.4.0-193.53.4.255
 flowby.no-ip.org[Spy]:193.77.93.128-193.77.93.128
 Kratos LTD:193.104.22.0-193.104.22.255
 Malware Infested:193.105.134.0-193.105.134.255
@@ -2267,6 +2271,7 @@ content.dollarrevenue.com|Hijacks:194.187.44.55-194.187.44.55
 content.dollarrevenue.com:194.187.45.55-194.187.45.55
 promo.dollarrevenue.com:194.187.45.56-194.187.45.56
 www.adwaresheriff.net:194.187.96.34-194.187.96.34
+Vadmim Praha|CWS|hijacks:194.187.96.195-194.187.96.195
 Hijacks:194.187.96.196-194.187.96.196
 Internet Digital Media:194.205.61.0-194.205.61.255
 Internet Digital Media:194.205.241.240-194.205.241.243
@@ -2767,6 +2772,7 @@ super-gals.com/scj/rotation/templates/um2/x.chm/:209.66.114.146-209.66.114.146
 APS telecom (Pricewert LLC):209.66.115.0-209.66.115.255
 search.xrenoder.com[CWS]:209.66.115.194-209.66.115.194
 APS telecom (Pricewert LLC):209.66.120.0-209.66.122.255
+www.356563.net:209.66.121.9-209.66.121.9
 www.lr103.com:209.66.122.49-209.66.122.49
 global-finder.com[CWS]:209.66.122.172-209.66.122.172
 hotsex.fuckingfree.net[CWS]:209.66.124.216-209.66.124.216
@@ -3011,7 +3017,6 @@ IMAGINEER-WEB.com:216.40.227.154-216.40.227.154
 www.bulletproofsoft.com[Spy]:216.40.227.156-216.40.227.156
 spywarezapper.com:216.40.230.4-216.40.230.4
 FONTFREAK-sucks / use-PCFONTS.COM[Spy]:216.40.240.10-216.40.240.10
-consumersoftwarelabs.com:216.46.177.86-216.46.177.86
 Comet Systems:216.52.88.64-216.52.88.71
 Overture Services, Inc:216.52.88.80-216.52.88.95
 Eliberation.com:216.52.102.0-216.52.102.143
@@ -3129,7 +3134,6 @@ do-managedscan.com:216.195.58.172-216.195.58.172
 domake-progress.com:216.195.58.176-216.195.58.176
 statscontroller.net:216.195.59.77-216.195.59.77
 SWF hijacks:216.195.62.78-216.195.62.78
-swiftcleaner.com:216.195.63.76-216.195.63.76
 kaavehakbari.com|hijacks:216.197.113.138-216.197.113.138
 CWS.Alfa-search[TROJAN]:216.200.3.32-216.200.3.32
 spweather.whenu.com:216.200.68.6-216.200.68.6
@@ -3186,7 +3190,6 @@ browsezilla.org:216.255.178.220-216.255.178.220
 adelinatech.com:216.255.180.58-216.255.180.58
 CWS:216.255.183.34-216.255.183.34
 ns1/ns2.playercodec.net:216.255.186.2-216.255.186.3
-www.buhartes.info|BT|Hijackers:216.255.187.66-216.255.187.66
 hardpornmpg.com|malware:216.255.187.76-216.255.187.76
 adv549|CWS|BT|Hijackers:216.255.187.186-216.255.187.190
 W32.Downadup.Conficker - downadup.de:217.11.54.126-217.11.54.126
@@ -3269,7 +3272,6 @@ xpire.info-Hijacker[spy]:221.139.50.11-221.139.50.11
 address-bar.net:221.143.43.201-221.143.43.201
 51yes.com:221.181.73.214-221.181.73.221
 Detected hacking in China Unicom Hebei Province Network:221.192.199.35-221.192.199.35
-Dabber.B|BT:221.236.167.192-221.236.167.192
 Zeus Z-Bot:222.35.143.116-222.35.143.116
 traffcount.cn:222.73.37.203-222.73.37.203
 inside-stats.bitcomet.com:222.73.227.222-222.73.227.222
