@@ -3182,6 +3182,7 @@ Zhejiang Ocean University:61.153.212.176-61.153.212.183
 Boat mountains and rivers have the school Of Zhou:61.153.212.248-61.153.212.255
 Nanhai Experiment School:61.153.213.8-61.153.213.15
 Dacheng Middle School:61.153.213.20-61.153.213.23
+zhoushan 2ND School:61.153.213.136-61.153.213.143
 CHENGDONGAN NURSERY SCHOOL:61.153.213.144-61.153.213.147
 TianJiaBin School:61.153.213.148-61.153.213.151
 Party School Of The Zhoushan Committee Of The Com:61.153.213.164-61.153.213.167
@@ -4033,7 +4034,6 @@ XI'AN TE LI MIDDLE SCHOOL:61.185.199.148-61.185.199.151
 XI'AN ELECTRON INDUSTRY GRADUATE SCHOOL:61.185.199.160-61.185.199.163
 XI'AN 39 PLACE JUNIOR SCHOOL:61.185.199.164-61.185.199.167
 XI'AN YOU HUAI MIDDLE SCHOOL:61.185.199.168-61.185.199.171
-XI'AN XIE KOU MIDDLE SCHOOL:61.185.199.172-61.185.199.175
 XI'AN XIN FENG  MIDDLE SCHOOL:61.185.199.176-61.185.199.179
 XI'AN YU JIN MIDDLE SCHOOL:61.185.199.180-61.185.199.183
 XI'AN MA E  MIDDLE SCHOOL:61.185.199.184-61.185.199.187
@@ -7327,6 +7327,7 @@ UcBerkeley:64.168.128.184-64.168.128.191
 St Christopher\:64.168.132.184-64.168.132.191
 Ucsf:64.168.134.184-64.168.134.191
 Academy Locksmith:64.168.160.184-64.168.160.191
+Usc Obstetricians &:64.168.166.88-64.168.166.95
 ST JOSEPH\:64.168.168.112-64.168.168.119
 East Side Union High School District:64.168.232.96-64.168.232.127
 University Students Coo:64.168.234.240-64.168.234.247
@@ -10265,6 +10266,7 @@ ACADEMY AUTO INSURANCE-041009002301:69.232.19.128-69.232.19.135
 UNIVERSITY OF THE PACIFIC MC GEORGE-041013000842:69.232.22.208-69.232.22.215
 LYLE S COLLEGES BEAUTY-041026013106:69.232.112.72-69.232.112.79
 COLLEGE-041118024112:69.232.112.224-69.232.112.231
+EDUCATION DE AMERICA INC-041015235933:69.232.127.128-69.232.127.135
 Calif Academy Of-050124225301:69.232.134.56-69.232.134.63
 STANFORD UNIV MED CTR-041106011412:69.232.136.64-69.232.136.71
 NORTHERN HEART & VASCULAR INSTITUTE INC.-041023004516:69.232.168.16-69.232.168.23
@@ -12577,6 +12579,7 @@ Moskovskaja Finansovo-Juridicheskaja akademija:81.195.173.0-81.195.173.7
 NOU VPO \"Pravoslavnij Svjato-Tihonovskij Gumanitarnij Universitet\":81.195.176.124-81.195.176.127
 Universitatea din Bucuresti:81.196.104.48-81.196.104.63
 Spitalul Universitar C.F. Witing:81.196.113.72-81.196.113.79
+University of Yaounde II SOA:81.199.141.0-81.199.141.255
 American University of Rome, via P. Roselli 4, 00153 Roma:81.208.13.136-81.208.13.143
 Universita di Genova public subnet:81.208.15.144-81.208.15.151
 Ecole & Co. srl, via della Bastia 20, Casalecchio di Reno (BO):81.208.26.216-81.208.26.223
@@ -15909,7 +15912,6 @@ John Carroll university:143.105.0.0-143.105.255.255
 Universidade Estadual de Campinas - UNICAMP:143.106.0.0-143.106.255.255
 Universidade de Sao Paulo:143.107.0.0-143.107.255.255
 Ripon College:143.109.0.0-143.109.255.255
-College of St. Scholastica:143.110.0.0-143.110.255.255
 The University Of Texas M.D. Anderson Cancer Cente:143.111.0.0-143.111.255.255
 Queen's University of Belfast:143.117.0.0-143.117.255.255
 Academic Hospital Utrecht:143.121.0.0-143.121.255.255
@@ -16802,7 +16804,6 @@ Eastern Michigan University:164.76.0.0-164.76.255.255
 imported inetnum object for SINGAP-1:164.78.0.0-164.78.255.255
 Universite de Limoges:164.81.0.0-164.81.255.255
 Columbus Public Schools:164.83.0.0-164.83.255.255
-Denver Public School District:164.92.0.0-164.92.255.255
 Poudre School District R-1:164.104.0.0-164.104.255.255
 Virginia Community College System:164.106.0.0-164.106.255.255
 Ohio State University:164.107.0.0-164.107.255.255
@@ -19238,7 +19239,6 @@ Regent Farm First School:193.193.46.160-193.193.46.191
 Welbeck Primary School:193.193.46.192-193.193.46.223
 Gosforth Central Middle School:193.193.46.224-193.193.46.255
 Kingston FE College:193.193.47.0-193.193.47.255
-Bankfield School:193.193.50.0-193.193.50.255
 St Francis Xavier College:193.193.51.0-193.193.51.255
 Charles Darwin School:193.193.52.0-193.193.52.255
 The Ashford School:193.193.54.0-193.193.54.127
@@ -20292,6 +20292,7 @@ Sevenoaks School:195.13.102.0-195.13.102.255
 Raina bulv 19, Riga, Latvia:195.13.128.0-195.13.159.255
 Daugavpils pedagoÂ»iskÃ  universitÃ te:195.13.215.16-195.13.215.31
 Sabiles school:195.13.220.0-195.13.220.15
+Riga Commercial School:195.13.251.192-195.13.251.255
 High School "Aviabiznes":195.14.41.32-195.14.41.47
 High School "Aviabiznes":195.14.46.192-195.14.46.255
 Fachhochschule des Bundes:195.14.208.192-195.14.208.255
@@ -20372,6 +20373,7 @@ COLLEGE NATIONALISE JEAN ZAY:195.25.175.144-195.25.175.151
 COLLEGE EDOUARD BRANLY:195.25.175.176-195.25.175.183
 COLLEGE NATIONALISE JEAN ZAY:195.25.175.192-195.25.175.199
 COLLEGE PAUL ELUARD:195.25.175.216-195.25.175.223
+COLLEGE HENRI WALLON:195.25.175.232-195.25.175.239
 ECOLE SUPERIEURE DE VENTE:195.25.186.0-195.25.186.63
 COLLEGE NATIONALISE BELREM:195.25.193.128-195.25.193.135
 COLLEGE NATIONALISE DU CARAQUET:195.25.194.112-195.25.194.119
@@ -21121,6 +21123,7 @@ Technical State College for information processing:195.226.67.0-195.226.67.255
 Accredited Academie of Design:195.226.105.64-195.226.105.127
 Universitaet:195.226.107.160-195.226.107.167
 International American School:195.226.255.64-195.226.255.95
+Erich-Gutenberg-Berufskolleg:195.227.52.176-195.227.52.191
 Berufsfoerderungswerk Michaelshoven:195.227.63.64-195.227.63.79
 Akademie der Kuenste Benjamin Archiv / Berlin:195.227.146.112-195.227.146.119
 BGF KVIFK Library, Gyor:195.228.14.16-195.228.14.23
@@ -22744,6 +22747,7 @@ Juntendo University School of Medicine:202.21.160.0-202.21.175.255
 PT. Bank Mandiri (Persero) Tbk:202.22.31.0-202.22.31.255
 Atish Dipankar University:202.22.194.16-202.22.194.23
 Southern University:202.22.194.168-202.22.194.175
+Shanghai Uninet Corp:202.22.254.0-202.22.254.255
 Kagoshima Immaculate Heart School Corporation:202.23.64.0-202.23.71.255
 Miyazaki Medical College:202.23.72.0-202.23.79.255
 Doshisha University:202.23.128.0-202.23.191.255
@@ -25554,7 +25558,6 @@ Canterbury Girls' Secondary College:203.55.107.0-203.55.107.255
 Marymount College:203.55.134.0-203.55.135.255
 Central Coaching College Pty Ltd:203.55.138.0-203.55.138.255
 Australian College of English Pty Ltd:203.55.143.0-203.55.143.255
-Footscray City Secondary College:203.55.148.0-203.55.149.255
 Charleville State High School:203.55.160.0-203.55.160.255
 Kestrel Aviation College P/L:203.55.170.0-203.55.170.255
 St Joseph's College:203.55.176.0-203.55.176.255
@@ -27915,7 +27918,6 @@ California  Institute of Integral Studies:204.126.96.0-204.126.97.255
 Summit County Children Services:204.126.112.0-204.126.113.255
 University of Arkansas at Monticello:204.126.114.0-204.126.115.255
 Howard Community College:204.126.132.0-204.126.133.255
-Piedmont College:204.126.178.0-204.126.179.255
 Northern Oklahoma College:204.126.186.0-204.126.191.255
 Petersburg Public Schools:204.126.202.0-204.126.203.255
 College of West Virginia:204.126.254.0-204.126.255.255
@@ -30446,7 +30448,6 @@ Indiana State Library:208.119.0.0-208.119.255.255
 Texas Tech University Health Sciences Center:208.122.128.0-208.122.191.255
 IMPERIAL COLLEGE SCARLETTRD:208.124.135.8-208.124.135.15
 ACADEMYOFLEARNING Ym:208.124.145.152-208.124.145.159
-Central Berkshire Regional School District:208.125.249.224-208.125.249.231
 Northern Caribbean University:208.138.34.144-208.138.34.151
 Mount Saint Mary College:208.138.48.0-208.138.63.255
 University of Technology:208.163.53.32-208.163.53.63
@@ -32169,6 +32170,7 @@ Brampton Public Library:209.226.9.0-209.226.9.31
 Royal College of Dental Surgeons of Ontario:209.226.11.192-209.226.11.200
 Toronto School Business:209.226.21.0-209.226.21.7
 North York Board of Education:209.226.22.64-209.226.22.95
+Niagara District Catholic School Board:209.226.35.0-209.226.37.255
 Sir Sandford Fleming College:209.226.65.96-209.226.65.103
 Durham College:209.226.72.240-209.226.72.247
 The Hastings and Prince Edward District School Board:209.226.83.0-209.226.83.31
@@ -32928,7 +32930,6 @@ Coburg North Primary School:210.15.246.170-210.15.246.170
 Merrilands College Prep-Y12:210.15.246.171-210.15.246.171
 Smeaton Primary School:210.15.246.172-210.15.246.172
 Ivanhoe East Primary School:210.15.246.173-210.15.246.173
-East Gippsland Specialist School:210.15.246.175-210.15.246.175
 Woodford Primary School:210.15.246.178-210.15.246.178
 Westmeadows Primary School:210.15.246.179-210.15.246.179
 Footscray Primary School:210.15.246.180-210.15.246.180
@@ -33773,7 +33774,6 @@ HEUNGYANG ELEMENTARY SCHOOL:210.90.225.192-210.90.225.255
 PUKPYUNGSUKAM ELEMENTARY SCHOOL:210.90.226.0-210.90.226.31
 MACHA ELEMENTARY SCHOOL:210.90.226.32-210.90.226.63
 Taebaek Middle School:210.90.226.176-210.90.226.191
-Hwangji Jungang Elemantary School:210.90.226.192-210.90.226.255
 SONGYANG ELEMENTART SCHOOL:210.90.227.32-210.90.227.63
 KYONGPODAE ELEMENTARY SCHOOL:210.90.227.64-210.90.227.127
 GUJIN MIDDLE SCHOOL:210.90.227.128-210.90.227.255
@@ -35581,6 +35581,7 @@ Tohoku Open Internet Community:210.156.32.0-210.156.63.255
 Kagawa Medical University:210.157.250.0-210.157.250.15
 Komazawa University Information Education Center:210.158.213.0-210.158.213.31
 Osaka Sangyo University:210.159.9.224-210.159.9.239
+Tokyo Gakugei University Senior High School:210.160.9.0-210.160.9.255
 International University of Japan:210.160.35.0-210.160.37.255
 Matsumoto Dental University:210.160.102.32-210.160.102.39
 Beijing YaoZhong International School:210.160.144.0-210.160.147.255
@@ -41779,7 +41780,6 @@ RTU:213.175.75.0-213.175.75.255
 RTU:213.175.84.0-213.175.85.255
 Riga Technical University:213.175.88.0-213.175.95.255
 Network of University of Latvia:213.175.96.0-213.175.115.255
-Latvijas Universitates Optometrijas Centrs:213.175.116.40-213.175.116.47
 Iranian Research Organization:213.176.0.0-213.176.127.255
 Xarxa Telematica Educativa de Catalunya:213.176.160.0-213.176.191.255
 Personal network for Institute of organometallic:213.177.119.128-213.177.119.143
@@ -43817,7 +43817,6 @@ Berufsfoerderungszentrum Maximillansau:217.5.199.64-217.5.199.95
 Jugendbildungsstaette Waldmuenchen:217.5.208.0-217.5.208.255
 Berlin British School e.V:217.5.211.200-217.5.211.207
 Gewerbliche Schule:217.6.171.56-217.6.171.63
-Universitaet Leipzig:217.6.179.208-217.6.179.215
 Georg-Kerschensteiner-Schule:217.6.191.232-217.6.191.239
 Black Forest Academy Haus Blauen:217.6.197.176-217.6.197.183
 Berufsfoerderungswerk Brandenburg:217.6.218.88-217.6.218.95
@@ -45346,7 +45345,6 @@ No.39 Middle School:218.4.65.80-218.4.65.87
 Wujiang Lili Primary School:218.4.65.96-218.4.65.103
 The Second Middle School of Lili , Wujiang:218.4.65.104-218.4.65.111
 Beishe Middle School:218.4.65.112-218.4.65.119
-Wujiang Tongli Middle School:218.4.65.120-218.4.65.127
 Miaogang Middle School:218.4.65.128-218.4.65.135
 Miaogang Primary School:218.4.65.136-218.4.65.143
 The First Middle School of Songling:218.4.65.144-218.4.65.151
@@ -45369,6 +45367,7 @@ Suzhou No.33 Middle School:218.4.71.208-218.4.71.215
 Suzhou No.5 Middle School:218.4.71.216-218.4.71.223
 Suzhou Health School:218.4.71.248-218.4.71.255
 Suzhou Professional Institute of Scientific:218.4.72.0-218.4.72.7
+Suzhou HuQiu Experimental Primary School:218.4.72.144-218.4.72.151
 Suzhou daicheng School:218.4.72.152-218.4.72.159
 Dongwu foreign Language Normal School:218.4.72.168-218.4.72.175
 MuDu High School:218.4.72.176-218.4.72.183
@@ -46343,6 +46342,7 @@ YuHuan Center Of Infant School:218.75.1.120-218.75.1.123
 YuHuan ChenGuan School:218.75.1.124-218.75.1.127
 YuHuan KanMen ShuangLong School:218.75.1.128-218.75.1.131
 YuHuan KanMen XiTai School:218.75.1.132-218.75.1.135
+TaiZhou City Party School:218.75.3.40-218.75.3.47
 TaiZhou Broadcast And Television University:218.75.3.64-218.75.3.79
 Zhejiang Broadcast&TV university Linhai branch:218.75.4.36-218.75.4.39
 LinHai HuiPu Middle School:218.75.4.80-218.75.4.83
@@ -46709,7 +46709,6 @@ BianCheng Primary School,Xinghua:218.90.241.184-218.90.241.187
 XinDuo Middle School , XingHua:218.90.241.220-218.90.241.223
 AnFeng Junior high school,Xinghua:218.90.241.252-218.90.241.255
 Jiang Su Tai Xing Vocational Senior Middle School:218.90.242.116-218.90.242.123
-Art School:218.90.243.72-218.90.243.79
 Xiangyu Company, Baoying Middle School:218.91.92.24-218.91.92.31
 Yangzhou Net Center University:218.91.92.32-218.91.92.63
 Party School, Jiangdu:218.91.92.144-218.91.92.151
