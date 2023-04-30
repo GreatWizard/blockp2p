@@ -3525,6 +3525,7 @@ JMS college library:61.167.19.64-61.167.19.95
 JMS city snow network training school:61.167.20.128-61.167.20.191
 JMS city snow training school 2:61.167.21.160-61.167.21.191
 Hua Nan city Hui Hai network school:61.167.26.160-61.167.26.191
+HUA NAN CITY XIN LONG NETWORK SCHOOL:61.167.29.96-61.167.29.127
 Hei Long Jiang province education department:61.167.33.0-61.167.33.255
 Hei Long Jiang province court school netbar:61.167.40.0-61.167.40.127
 Harbin city party school:61.167.45.0-61.167.45.255
@@ -4626,6 +4627,7 @@ Aletheia University:61.219.147.120-61.219.147.127
 Aletheia University:61.219.147.144-61.219.147.159
 Nation Tainan Art University:61.219.169.0-61.219.169.255
 National Chengchi University:61.219.195.104-61.219.195.111
+National Politics University:61.219.205.32-61.219.205.47
 National Politics University:61.219.210.0-61.219.210.15
 National Open University:61.219.250.80-61.219.250.95
 National Open University:61.219.253.192-61.219.253.223
@@ -4883,6 +4885,7 @@ The Young Options College:62.49.175.72-62.49.175.79
 Guildford High School:62.49.178.152-62.49.178.159
 Holme Grange School:62.49.179.176-62.49.179.179
 Nicholas Breakspear R.C School:62.49.203.32-62.49.203.39
+DEMON ADSL CUSTOMER:62.49.207.144-62.49.207.159
 The Maynard School:62.49.209.184-62.49.209.191
 Virtual College:62.49.210.48-62.49.210.55
 Bedford Modern School:62.49.219.104-62.49.219.111
@@ -6799,7 +6802,6 @@ SchoolSuccess.net:64.55.38.193-64.55.38.206
 SCHOOL SUCCESS:64.55.44.200-64.55.44.207
 THE MAY INSTITUTE - WALPOLE:64.55.63.208-64.55.63.215
 THE MAY INSTITUTE - HYANNIS:64.55.63.216-64.55.63.223
-MOUNT SAINT CHARLES ACADEMY:64.55.72.240-64.55.72.255
 MASSINC.-MASSACHUSETTS INSTITUTE FOR A NEW COMMONWEALTH:64.55.102.32-64.55.102.39
 BLUE DOLPHIN GROUP - 218 COLLEGE FARM RD:64.55.111.72-64.55.111.79
 SUFFOLK UNIVERSITY - BROOKLINE:64.55.123.144-64.55.123.151
@@ -10531,6 +10533,7 @@ Concordia University at Austin:70.246.35.248-70.246.35.255
 DUKE UNIVERSITY-050709030911:70.246.123.232-70.246.123.239
 Baylor College Of Med-050416014801:70.247.48.72-70.247.48.79
 Southern Nazarene University:70.247.87.240-70.247.87.247
+Southern Methodist University:70.247.110.160-70.247.110.191
 UNIVERSITY OF TEXAS-050504012139:70.247.179.240-70.247.179.247
 BAYLOR COLLEGE OF DENTISTRY-050507021253:70.247.187.16-70.247.187.23
 BETHANY COLLEGE-050811162715:70.247.213.224-70.247.213.231
@@ -11664,6 +11667,7 @@ ESC Education Service Center GmbH:80.120.223.32-80.120.223.39
 Bundesrealgymnasium Feldkirchen:80.120.237.116-80.120.237.119
 Bundesrealgymnasium:80.120.239.240-80.120.239.243
 Bundesgymnasium Tanzenberg:80.120.254.168-80.120.254.175
+IT in Schulen Ges.m.b.H:80.121.144.72-80.121.144.79
 Ibis Acam GmbH:80.121.146.16-80.121.146.23
 Landesberufschule BAULTG:80.121.183.164-80.121.183.167
 ibis acam - Privates Institut f~r berufsbezogene:80.121.185.84-80.121.185.87
@@ -14407,7 +14411,6 @@ China Education and Research Network - Beijing:115.24.0.0-115.27.255.255
 China West Hing School:115.85.192.0-115.85.192.7
 Anying Education University:115.85.192.72-115.85.192.75
 Northwest Teacher Training University:115.85.192.80-115.85.192.87
-Lanzhou University:115.85.192.96-115.85.192.111
 Longying Artist School:115.85.192.212-115.85.192.215
 Association of Independent Schools of Victoria Inc:115.124.0.0-115.124.7.255
 The Victorian Education & Research Network (VERNet):115.124.8.0-115.124.15.255
@@ -14453,7 +14456,6 @@ ULSAN Office of Education:117.110.251.0-117.110.251.255
 Beijing Education Information Network Service Center Corp:117.112.0.0-117.119.255.255
 Northeastern University:117.121.221.0-117.121.221.63
 Secretariat, Higher Education, Govt. of Orissa:117.239.20.0-117.239.20.31
-Institute of Management and Information Technology:117.239.20.32-117.239.20.39
 Rajdhani College of Engg and MGMT:117.239.20.40-117.239.20.47
 Radhakrishna Institute of Engg-Tech:117.239.20.48-117.239.20.55
 Turbo Machinery Institute of Technology:117.239.49.224-117.239.49.239
@@ -15479,6 +15481,7 @@ University of Louisville:136.165.0.0-136.165.255.255
 Boston College:136.167.0.0-136.167.255.255
 California State University Bakersfield:136.168.0.0-136.168.255.255
 Bradley University:136.176.0.0-136.176.255.255
+New York State University College at Buffalo:136.183.0.0-136.183.255.255
 Swinburne University of Technology:136.186.0.0-136.186.255.255
 National Center for Science Information Systems:136.187.0.0-136.187.255.255
 National Institute of Informatics:136.187.0.0-136.187.255.255
@@ -15937,7 +15940,6 @@ San Jose Unified School District:143.254.0.0-143.254.255.255
 University of Tasmania at Launceston:144.6.0.0-144.6.255.255
 University of Wisconsin - Stout:144.13.0.0-144.13.255.255
 National Research and Education Network (ERNET):144.16.0.0-144.16.255.255
-Snow College:144.17.0.0-144.17.255.255
 West Chester University:144.26.0.0-144.26.255.255
 UAF Campus Network:144.30.0.0-144.30.255.255
 University of York:144.32.0.0-144.32.255.255
@@ -16140,6 +16142,7 @@ Universidad Autonoma de Yucatan:148.209.0.0-148.209.255.255
 Universidad Autonoma De Ciudad Juarez:148.210.0.0-148.210.255.255
 UNIVERSIDAD AUTONOMA DE AGUASCALIENTES:148.211.0.0-148.211.255.255
 Universidad Autonoma de Coahuila:148.212.0.0-148.212.255.255
+UNIVERSIDAD AUTONOMA DE COLIMA:148.213.0.0-148.213.255.255
 Universidad de Guanajuato:148.214.0.0-148.214.255.255
 Universidad Autonoma del Estado de Mexico:148.215.0.0-148.215.255.255
 Universidad Michoacana de San Nicolas de Hidalgo:148.216.0.0-148.216.255.255
@@ -16206,7 +16209,6 @@ Vienna General Hospital and University Clinics:149.148.0.0-149.148.255.255
 Tennessee Technological University:149.149.0.0-149.149.255.255
 Seton Hall University:149.150.0.0-149.150.255.255
 William Paterson State College:149.151.0.0-149.151.255.255
-Connecticut State University:149.152.0.0-149.152.255.255
 Local Ethernet:149.153.0.0-149.153.255.255
 POLIP:149.156.0.0-149.156.255.255
 Institute of Pharmacology:149.156.177.0-149.156.177.127
@@ -16224,6 +16226,7 @@ Medizinische Akademie Magdeburg:149.203.0.0-149.203.255.255
 Hochschule Merseburg:149.205.0.0-149.205.255.255
 Fachhochschule Kiel:149.222.0.0-149.222.255.255
 Tokai University:150.7.0.0-150.7.255.255
+Hannan University:150.9.0.0-150.9.255.255
 University of Hyogo:150.12.0.0-150.12.255.255
 Kagawa National College of Technology Takuma campus:150.15.0.0-150.15.255.255
 National Institute of Advanced Industrial Science:150.18.0.0-150.18.255.255
@@ -16371,6 +16374,7 @@ North Carolina State University:152.1.0.0-152.1.255.255
 MCNC:152.2.0.0-152.51.255.255
 Education and Research Consortium of the Western Carolinas:152.53.0.0-152.53.31.255
 North Carolina Research and Education Network:152.53.0.0-152.60.255.255
+North Carolina Research and Education Network:152.60.0.0-152.60.255.255
 Saint John's University - College of Saint Benedic:152.65.0.0-152.65.255.255
 Technical University of Budapest Centre of Informa:152.66.0.0-152.66.255.255
 The Nottingham Trent University:152.71.0.0-152.71.255.255
@@ -18019,7 +18023,6 @@ Berklee College of Music:192.136.22.0-192.136.22.255
 Universidade Portucalense:192.136.31.0-192.136.31.255
 Office of Technical &amp; Further Education:192.136.39.0-192.136.39.255
 Red Academica de Informacion Nicaraguense:192.136.42.0-192.136.47.255
-Universidade de Aviero:192.136.52.0-192.136.52.255
 Meharry Medical College:192.136.67.0-192.136.67.255
 Institute for Technology Development:192.136.108.0-192.136.108.255
 Eastern Idaho Technical College:192.136.109.0-192.136.109.255
@@ -18657,7 +18660,6 @@ National University Corporation Tokyo University of Marine Science and Technolog
 Shimane University:192.244.208.0-192.244.223.255
 Kobe City College of Technology:192.244.254.0-192.244.254.255
 Tompkins Cortland Community College:192.245.19.0-192.245.23.255
-Herkimer County Community College:192.245.25.0-192.245.29.255
 SUNY Herkimer Community College:192.245.29.0-192.245.29.255
 University of Canterbury:192.245.36.0-192.245.36.255
 The Sharenet Association:192.245.42.0-192.245.42.255
@@ -28264,7 +28266,6 @@ Lexington Christian Academy:205.159.217.0-205.159.217.255
 Washington County Schools:205.160.46.0-205.160.46.255
 Troy State University - Florida Region:205.160.74.0-205.160.74.255
 Troy State University - Florida Region:205.160.77.0-205.160.77.255
-Randolph Macon Academy:205.160.101.96-205.160.101.127
 Lynchburg City Schools:205.160.104.0-205.160.107.255
 Lake Sumter Community College:205.160.180.0-205.160.180.255
 Hillsborough Township Public School District:205.160.198.0-205.160.198.255
@@ -29291,6 +29292,7 @@ Boundary County School District
 Meridian School District 
 Boise School District:207.70.54.0-207.70.55.255
 Vallivue School District:207.70.58.0-207.70.58.255
+Gem State Academy:207.70.61.0-207.70.61.255
 Lufkin Independant School District:207.70.133.0-207.70.133.255
 Hudson Independent School District:207.70.134.0-207.70.134.255
 Brazos Higher Education Service Corporation:207.70.151.0-207.70.151.255
@@ -29889,7 +29891,6 @@ Harvard University:207.210.142.0-207.210.143.255
 Connecticut Education Network:207.210.144.0-207.210.144.255
 Pacific Bell - Public Sector - Education First:207.212.16.240-207.212.16.247
 Alameda County Office of Education:207.212.52.0-207.212.55.255
-Guajome Park Academy (SCMA):207.212.92.0-207.212.92.255
 Washoe County School District:207.212.112.0-207.212.112.255
 Calnet Parlier Unified School District:207.212.122.0-207.212.122.63
 Laurel Hall School:207.212.190.0-207.212.190.31
@@ -32496,6 +32497,7 @@ Badger Creek Primary School:210.15.219.84-210.15.219.84
 Middle Kinglake Primary School:210.15.219.85-210.15.219.85
 Chelsea Heights Primary School:210.15.219.86-210.15.219.86
 Wesburn Primary School:210.15.219.87-210.15.219.87
+Wonthaggi Primary School:210.15.219.88-210.15.219.88
 Kennington Primary School:210.15.219.89-210.15.219.89
 Merbein South Primary School:210.15.219.90-210.15.219.90
 Penders' Grove Primary School:210.15.219.91-210.15.219.91
@@ -32645,6 +32647,7 @@ Gruyere Primary School:210.15.229.33-210.15.229.33
 Thorpdale Primary School:210.15.229.34-210.15.229.34
 Metung Primary School:210.15.229.35-210.15.229.35
 Clarinda Primary School:210.15.229.38-210.15.229.38
+Warrenwood Primary School:210.15.229.39-210.15.229.39
 Cardinia Primary School:210.15.229.40-210.15.229.40
 Underbool Primary School:210.15.229.41-210.15.229.41
 Colbinabbin Primary School:210.15.229.42-210.15.229.42
@@ -36062,6 +36065,7 @@ MUNGYONG INFORMATION INDUSTRY HIGH SCHOOL:210.179.98.0-210.179.98.127
 UISONG GIRLS MIDDLE SCHOOL:210.179.98.128-210.179.98.255
 Hyungkok Seobu Elementary School:210.179.99.0-210.179.99.127
 YOUNGCHEON GIRLS MIDDLE SCHOOL:210.179.99.128-210.179.99.255
+PUNGYANG ELEMENTARY SCHOOL:210.179.100.128-210.179.100.223
 YOUNGJU NAMSAN ELEMENTARY SCHOOL:210.179.101.0-210.179.101.127
 SANGJU SANGGI GIRLS COMPREHENSIVE HIGH SCHOOL:210.179.101.128-210.179.101.255
 Munhwa high school:210.179.102.0-210.179.102.127
@@ -36194,7 +36198,6 @@ Iyang High School:210.179.185.0-210.179.185.63
 Yochon High School:210.179.185.128-210.179.185.255
 Hyochun High School:210.179.186.0-210.179.186.63
 Bosungnam Elementary  School:210.179.187.0-210.179.187.127
-Yosu City Hyunam Library:210.179.187.128-210.179.187.159
 GEUMDANG HIGH SCHOOL:210.179.188.0-210.179.188.63
 YOSUSIRIP HYUNAL LIBRARY:210.179.189.224-210.179.189.239
 MUNGOK MIDDLE SCHOOL:210.179.192.0-210.179.192.63
@@ -37728,6 +37731,7 @@ Ojer Elementry School:211.34.253.0-211.34.253.63
 Daejin Elemantary School:211.34.253.64-211.34.253.127
 Yongok Elemantary School:211.34.253.128-211.34.253.191
 Chongdong Elemantary School:211.34.253.192-211.34.253.255
+Sachon Elemantary School:211.34.254.0-211.34.254.63
 Pongyang Elemantary School:211.34.254.64-211.34.254.127
 Sangjang Elemantary School:211.34.254.128-211.34.254.191
 Mangsang Elemantary School:211.34.254.192-211.34.254.255
@@ -38068,6 +38072,7 @@ ANMI ELEMETARY SCHOOL:211.57.11.0-211.57.11.63
 BONGPYUNG MIDDLE SCHOOL:211.57.11.64-211.57.11.127
 Munmak Primary School:211.57.11.192-211.57.11.223
 SANHYUN ELEMENTARY SCHOOL:211.57.11.224-211.57.11.255
+KANGNUNG OFFICE OF EDUCATION:211.57.12.64-211.57.12.255
 JUNGSUN OFFICE OF EDUCATION:211.57.13.0-211.57.13.95
 TONGHAE OFFICE OF EDUCATION:211.57.13.96-211.57.13.191
 DOGYE HIGH SCHOOL:211.57.13.192-211.57.13.255
@@ -40837,7 +40842,6 @@ Hutchesons\\:212.240.52.176-212.240.52.191
 Epsom College:212.240.79.112-212.240.79.127
 Wednesbury Education Action Zone:212.240.128.168-212.240.128.175
 Woodlands Schools Ltd:212.240.148.104-212.240.148.111
-Woodlands Schools Ltd:212.240.166.48-212.240.166.51
 London College of Beauty Therapy:212.240.180.240-212.240.180.255
 Woodlands Schools:212.240.188.112-212.240.188.127
 University of Derby:212.240.194.176-212.240.194.191
@@ -43421,6 +43425,7 @@ Covington Latin School:216.196.232.128-216.196.232.135
 NOTRE; DAME (DNA) ACADEMY:216.196.238.168-216.196.238.175
 SuperCollege.com:216.198.199.128-216.198.199.159
 Baruch College Continuing and Professional Studies:216.200.60.16-216.200.60.31
+Eagle Charter School:216.201.214.24-216.201.214.31
 Faith Christian Schools:216.201.220.0-216.201.220.7
 Champions School of Real Estate:216.201.222.88-216.201.222.95
 Masonic Home & School of Texas:216.201.223.8-216.201.223.15
@@ -45798,7 +45803,6 @@ NANHUA HIGH SCHOOL:218.17.211.48-218.17.211.51
 FUTIAN HIGH SCHOOL:218.17.211.56-218.17.211.59
 FUHUA ELEMENTARY SCHOOL:218.17.212.8-218.17.212.11
 SHENZHEN EDUCATION ACADEMY:218.17.212.24-218.17.212.27
-GANGXIA HIGH SCHOOL:218.17.212.32-218.17.212.35
 QUANHAI PRIMARY SCHOOL:218.17.212.64-218.17.212.67
 FUMIN ELEMENTARY SCHOOL:218.17.212.68-218.17.212.71
 SHENZHEN YITIAN ELEMENTARY SCHOOL:218.17.212.76-218.17.212.79
@@ -45814,7 +45818,6 @@ ZHONGFU ELEMENTARY SCHOOL:218.17.212.132-218.17.212.135
 YITIAN HIGH SCHOOL:218.17.212.144-218.17.212.147
 XINZHOU ELEMENTARY SCHOOL:218.17.212.148-218.17.212.151
 XINZHOU HIGH SCHOOL:218.17.212.156-218.17.212.159
-FUQIANG PRIMARY SCHOOL:218.17.212.160-218.17.212.163
 SHENZHEN NANHUA ELEMENTARY SCHOOL:218.17.212.164-218.17.212.167
 SHENZHEN HOSPITAL OF PEKING UNIVERSITY:218.17.213.8-218.17.213.11
 SHENZHEN MEISHAN PRIMARY SCHOOL:218.17.213.12-218.17.213.15

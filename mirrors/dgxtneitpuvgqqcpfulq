@@ -68,6 +68,7 @@ Bluestreak:12.130.47.0-12.130.47.255
 Dynamic Logic Inc:12.130.81.128-12.130.81.255
 ads:12.130.91.7-12.130.91.8
 Coremetrics:12.130.94.0-12.130.94.255
+IDM CORP PROPERTY INSIGHT:12.145.139.160-12.145.139.167
 ads.intelihealth.com:12.148.21.23-12.148.21.23
 NEBUAD INC:12.152.188.0-12.152.188.255
 ads:12.153.20.152-12.153.20.152
@@ -142,6 +143,7 @@ ads.techtv.com ads:38.114.129.148-38.114.129.148
 bns1.net ads:38.117.174.2-38.117.174.2
 ads:38.117.174.20-38.117.174.20
 ads:38.119.65.135-38.119.65.135
+ads:38.119.65.137-38.119.65.138
 Cridex rootkit control server:41.168.5.140-41.168.5.140
 trojan on BitTorrent1201/scam-spam/dirty host:41.203.64.251-41.203.64.251
 trojan on BitTorrent1201/scam-spam/dirty host:41.203.64.254-41.203.64.254
@@ -590,7 +592,6 @@ ads:65.39.176.118-65.39.176.118
 Telmetrics Inc:65.39.199.0-65.39.199.127
 imec.com ads:65.39.221.218-65.39.221.218
 developersnetwork.com ads:65.39.254.101-65.39.254.101
-Linkshare Corporation:65.43.109.80-65.43.109.87
 AFNCA Inc:65.49.80.80-65.49.80.87
 msid.msn.com ads:65.54.192.249-65.54.192.249
 rad.msn.com/rad.msn.com[MSN Ad SERVERS]:65.54.194.117-65.54.194.118
@@ -616,6 +617,7 @@ ww.classifieds1000.com ads:65.118.27.70-65.118.27.70
 gray.venangowireless.com ads:65.118.27.112-65.118.27.112
 INTERMARK COMMUNICATIONS:65.124.175.0-65.124.175.255
 host-65-126-5-4.equinix.com ads:65.126.5.4-65.126.5.4
+secure.residentialmarketingcenter.com ads:65.162.162.120-65.162.162.120
 ads:65.164.242.200-65.164.242.200
 ns2.adcomplete.net ads:65.165.64.131-65.165.64.131
 Double Click:65.167.64.0-65.167.67.255
@@ -683,6 +685,7 @@ Dana Ghavami:66.70.65.192-66.70.65.223
 clicks4u.com ads:66.70.83.82-66.70.83.82
 spacedish.com ads:66.70.91.40-66.70.91.40
 cookies.cmpnet.com/computerchronicle:66.77.24.4-66.77.24.5
+Chitika:66.77.30.192-66.77.30.255
 Chitika:66.77.55.192-66.77.55.255
 Mamma.com Inc:66.77.72.0-66.77.72.63
 a248.e.akamai.netATBP ATBP:66.77.165.209-66.77.165.210
@@ -756,7 +759,6 @@ ww.expertcity.com ads:66.151.158.189-66.151.158.189
 adxpansion.com:66.152.78.141-66.152.78.141
 host-66-152-86-218.gammanetworking.com ads:66.152.86.218-66.152.86.218
 scams  equitydevbank.com/charitable_tr:66.152.97.228-66.152.97.228
-scams  northamtrustfinancial.com:66.152.97.242-66.152.97.242
 ads:66.154.47.163-66.154.47.163
 server.iicinternet.com ads:66.159.17.64-66.159.17.64
 Dragon Media Online, Inc:66.160.140.0-66.160.140.15
@@ -881,6 +883,7 @@ eNom, Incorporated, DEMAND MEDIA INC:67.134.255.128-67.134.255.191
 EXACT ADVERTISING:67.151.144.128-67.151.144.143
 ads:67.155.70.170-67.155.70.170
 Sergey Kuzichkin:67.159.30.192-67.159.30.207
+Adult Friend Finder:67.166.40.246-67.166.40.246
 datingnearby.com, ns3.netwithuse.com:67.175.74.110-67.175.74.110
 Ward Media:67.192.17.64-67.192.17.71
 Ward Media:67.192.38.152-67.192.38.159
@@ -915,7 +918,6 @@ virgin18girls.com:68.169.80.78-68.169.80.78
 track2.celebsonly.com:68.169.83.31-68.169.83.31
 guadagnarecolweb.com:68.178.225.104-68.178.225.104
 www.whyaretheydead.net-www.wearerobots.com GoDaddy domain parking:68.178.232.97-68.178.232.143
-healwithlori.com:68.178.254.125-68.178.254.125
 yahoo fraud scammer:68.195.62.40-68.195.62.40
 CyberAds,Inc:68.208.26.0-68.208.26.255
 netlooks.org ATBP:68.209.118.21-68.209.118.21
@@ -1124,6 +1126,7 @@ CitySex.com:72.252.189.198-72.252.189.198
 INTERCEPT INTERACTIVE/MCGRAW COMMUNICATIONS:74.8.30.120-74.8.30.127
 TARGUSinfo:74.43.138.0-74.43.138.255
 adadvisor.net:74.43.138.57-74.43.138.57
+Adshostnet:74.50.124.103-74.50.124.103
 SiteMeter Inc:74.52.109.176-74.52.109.191
 SiteMeter Inc:74.52.111.160-74.52.111.175
 purelyfitness.com:74.52.222.141-74.52.222.141
@@ -1134,7 +1137,6 @@ SiteMeter Inc:74.53.75.80-74.53.75.95
 SiteMeter Inc:74.53.94.64-74.53.94.79
 SiteMeter Inc:74.53.127.224-74.53.127.255
 SiteMeter Inc:74.53.159.0-74.53.159.15
-SiteMeter Inc:74.53.181.48-74.53.182.15
 DelhiNet LLC:74.53.205.192-74.53.205.207
 The Ad Corp:74.54.63.32-74.54.63.47
 searchdiscovered.com:74.54.82.229-74.54.82.229
@@ -1374,6 +1376,7 @@ playook.info Ad Injector:88.190.41.204-88.190.41.204
 pop_up:88.208.22.84-88.208.22.84
 phorm.com:88.208.248.102-88.208.248.102
 phorm.com:88.208.250.66-88.208.250.66
+phorm.com:88.208.250.85-88.208.250.85
 counter.yadro.ru:88.212.196.101-88.212.196.101
 chargeyourprofit.com:88.214.195.113-88.214.195.115
 CitySex.com:88.236.182.123-88.236.182.123
@@ -1444,6 +1447,7 @@ My Canadian Pharmacy:94.199.51.64-94.199.51.64
 altiusdirectory.com:94.229.174.80-94.229.174.80
 vitabits.de:94.236.61.36-94.236.61.36
 Canadian Neighbor Pharmacy:94.249.188.123-94.249.188.123
+CitySex.com:95.8.66.221-95.8.66.221
 CitySex.com:95.27.1.119-95.27.1.119
 PE Marketing Mix:95.47.156.0-95.47.156.255
 solocpm.com:95.110.163.32-95.110.163.32
@@ -1589,6 +1593,7 @@ ads.trafficjunky.net:146.82.205.41-146.82.205.41
 ads.trafficjunky.net:146.82.205.47-146.82.205.47
 1682.DOCLI:146.82.220.0-146.82.221.255
 GRATIS INTERNET INC:146.145.253.80-146.145.253.87
+creafi online media:148.251.87.156-148.251.87.156
 Trilogy - Palo Alto:149.75.0.0-149.75.255.255
 SuperMedia LLC:151.138.0.0-151.138.255.255
 ww.travelocity.com:151.193.164.183-151.193.164.186
@@ -1643,7 +1648,6 @@ bestdvdripper.biz:173.201.225.78-173.201.225.78
 Index Exchange [formerly Casale Media]:173.205.11.192-173.205.11.255
 Bodis LLC domain parking:173.227.66.0-173.227.66.255
 curified.com:173.236.29.202-173.236.29.202
-DENIRO MARKETING, LLC:173.241.0.0-173.241.15.255
 OPENX TECHNOLOGIES:173.241.240.0-173.241.255.255
 AFNCA Inc:173.245.68.0-173.245.68.7
 AFNCA Inc:173.245.76.0-173.245.77.255
@@ -1833,7 +1837,6 @@ antivirus.lv/c.ns.inbox.lv:194.19.240.232-194.19.240.232
 software-shopbuy.ru:194.28.44.57-194.28.44.57
 ACXIOM FRANCE:194.51.46.198-194.51.46.198
 www.click-fr.com ads:194.51.147.199-194.51.147.199
-HAVAS-ADVERTISING-SPORTS:194.51.186.184-194.51.186.191
 adserv.quality-channel.de ads:194.64.249.244-194.64.249.244
 rol.ru ads:194.67.1.166-194.67.1.166
 host1.list.ru ads:194.67.23.224-194.67.23.224
@@ -1994,6 +1997,7 @@ ABACUS Direct Inc:198.49.147.0-198.49.147.255
 IXI Corp [Equifax]:198.51.158.0-198.51.158.255
 AdValue Network:198.56.64.0-198.56.127.255
 ads:198.64.139.114-198.64.139.114
+admex.com ads:198.64.149.47-198.64.149.47
 ads:198.65.107.28-198.65.107.28
 ads:198.65.116.34-198.65.116.34
 scams  atlanticfidelitybank.com:198.65.137.241-198.65.137.241
@@ -2044,7 +2048,6 @@ ads:199.181.132.80-199.181.132.80
 utils.mediageneral.com ads:199.193.10.90-199.193.10.90
 mediageneral.com ads:199.193.10.150-199.193.10.150
 ads:199.193.13.90-199.193.13.90
-Belcaro Group Inc/shopathomeselect.com:199.221.131.110-199.221.131.110
 Cambridge Entrepreneurial Network split2:199.232.43.136-199.232.255.255
 ads:199.239.136.245-199.239.136.245
 ads:199.239.137.200-199.239.137.200
@@ -2286,7 +2289,6 @@ Clearspring/AddThis:206.165.250.0-206.165.250.255
 ww.seemesmile.com ads:206.168.218.130-206.168.218.130
 Specialized Direct Response:206.171.93.160-206.171.93.191
 ww.webshots.com ads:206.173.193.10-206.173.193.10
-squid1.nic.cc/squid2.nic.cc ads:206.191.159.21-206.191.159.22
 Revenue Science, Inc:206.191.161.0-206.191.161.255
 AudienceScience:206.191.168.230-206.191.168.230
 AudienceScience:206.191.168.236-206.191.168.236
@@ -2436,7 +2438,6 @@ free-vpn.co.nr:208.100.40.200-208.100.40.200
 hypnosis.reciter.com:208.109.30.133-208.109.30.133
 convert-to-3d.com:208.109.104.60-208.109.104.60
 writing-help.org:208.109.181.149-208.109.181.149
-golfwholesale18.com:208.115.213.157-208.115.213.157
 f.blogads.com:208.122.47.51-208.122.47.53
 Adteractive adteractivenewsalerts:208.123.76.0-208.123.76.255
 content.ebates.com:208.184.39.152-208.184.39.152
@@ -2452,12 +2453,14 @@ TRIBAL FUSION:208.185.101.160-208.185.101.191
 TRIBAL FUSION:208.185.101.192-208.185.101.199
 absj.about.com ads:208.185.127.40-208.185.127.40
 scams-alphafunds.org/nationalcredit:208.185.127.168-208.185.127.169
+ads:208.185.127.175-208.185.127.175
 ads:208.185.127.189-208.185.127.189
 eZula Inc/advertisingrevenuenetwork[ATBP]:208.185.211.71-208.185.211.71
 208.185.230.221.rjbtelcom.com ads:208.185.230.221-208.185.230.221
 scams  sarbank.com:208.186.250.27-208.186.250.27
 Acxiom:208.189.11.80-208.189.11.95
 ads:208.197.4.3-208.197.4.3
+ads:208.197.4.10-208.197.4.10
 Acxiom Corp:208.200.56.0-208.200.63.255
 advance.net ads:208.202.9.26-208.202.9.29
 ads6.advance.net ads:208.202.9.193-208.202.9.193
@@ -2562,7 +2565,6 @@ ww.gohip.com ads:209.132.193.8-209.132.193.8
 www3.gohip.com ads:209.132.193.11-209.132.193.11
 www4.gohip.com ads:209.132.193.13-209.132.193.13
 www5.gohip.com ads:209.132.193.15-209.132.193.15
-ads:209.132.193.20-209.132.193.20
 addservernew.gohip.com ads:209.132.193.34-209.132.193.34
 members3&4.movienetworks.com:209.132.205.75-209.132.205.76
 members5.movienetworks.com ads:209.132.205.101-209.132.205.101
@@ -2582,7 +2584,6 @@ mail12.bigmailbox.com ads:209.132.220.43-209.132.220.47
 mail18.bigmailbox.com ads:209.132.220.49-209.132.220.50
 images.bigmailbox.com ads:209.132.220.76-209.132.220.76
 Direct Response Consulting Service:209.135.192.0-209.135.192.255
-mail.anet-stl.com ads:209.145.128.66-209.145.128.66
 brood.accessus.net ads:209.145.150.25-209.145.150.25
 ads:209.151.75.68-209.151.75.68
 scams  gfbkonline.com/:209.152.178.16-209.152.178.16
@@ -2592,9 +2593,9 @@ ww.guid.org ads:209.157.135.114-209.157.135.114
 247 Media - Canada:209.167.142.64-209.167.142.95
 Link Clicks:209.167.176.64-209.167.176.79
 rei.lwdatas.net ads:209.172.150.3-209.172.150.3
+Double Clicks:209.183.163.120-209.183.163.127
 ads2.pittsburghlive.com ads:209.195.176.245-209.195.176.245
 scams  siscosec.com/:209.197.251.125-209.197.251.125
-bigboy.freecommunity.com ads:209.198.134.14-209.198.134.14
 web.capris.net ads:209.202.113.132-209.202.113.132
 superweb1.capris.net ads:209.202.113.138-209.202.113.138
 shared1-mail.whowhere.com ads:209.202.220.30-209.202.220.30
@@ -2665,6 +2666,7 @@ Doubleclick:211.119.102.224-211.119.102.255
 Double Click Internet Game Plaza:211.168.199.96-211.168.199.127
 DoubleClick:211.171.44.64-211.171.44.127
 ads:211.174.60.173-211.174.60.173
+ads:211.175.248.19-211.175.248.19
 ebay scammer:211.178.170.74-211.178.170.74
 Double click:211.180.105.128-211.180.105.191
 cgiserver.net ads:211.181.42.162-211.181.42.162
@@ -2692,7 +2694,6 @@ viagra-buy.in:212.40.39.94-212.40.39.94
 adv.ilsole24ore.it ads:212.45.97.36-212.45.97.36
 ns.penguin.cz ads:212.47.7.226-212.47.7.226
 atlas104.a2.atlas.cz ads:212.47.13.104-212.47.13.104
-ads:212.48.1.154-212.48.1.154
 ads:212.48.11.21-212.48.11.21
 bioveritas.at:212.52.192.18-212.52.192.18
 ads:212.59.22.98-212.59.22.98
@@ -2730,7 +2731,6 @@ multi1.rmuk.co.uk ads:212.113.31.55-212.113.31.55
 RxFromHome:212.117.160.169-212.117.160.169
 yep.com ads:212.118.48.207-212.118.48.207
 AudienceScience Inc:212.118.226.80-212.118.226.95
-scams  intercontbank.com:212.118.243.114-212.118.243.114
 ads:212.123.226.203-212.123.226.203
 ads:212.123.233.73-212.123.233.73
 Red Eye International Ltd ltd:212.125.80.32-212.125.80.35
@@ -2827,6 +2827,7 @@ Gabo-IDM-MBH.Web.Mailserver.DE:213.221.87.72-213.221.87.79
 FR-CLIKMEDIA:213.228.61.96-213.228.61.103
 ads:213.228.192.135-213.228.192.136
 adserv.huntseek.net ads:213.228.242.67-213.228.242.67
+ads:213.229.179.240-213.229.179.240
 Spammer:213.235.188.138-213.235.188.138
 Spammer:213.235.188.142-213.235.188.142
 Spammer:213.235.188.162-213.235.188.162
@@ -2877,7 +2878,6 @@ ValueClick:216.34.207.0-216.34.207.255
 Booyah Networks, Inc:216.38.193.8-216.38.193.15
 bfcs2.tucows.com ads:216.40.34.65-216.40.34.65
 ads:216.40.195.10-216.40.195.10
-host2.boardhost.com ads:216.40.246.63-216.40.246.63
 paypopup.com ATBP:216.40.247.45-216.40.247.45
 port-216-3074824-zzt0prespect.devices.datareturn.c:216.46.235.8-216.46.235.8
 ads.mcafee.com:216.49.88.130-216.49.88.130
@@ -2999,6 +2999,7 @@ underconstruction.networksolutions.com ads:216.168.224.64-216.168.224.64
 xcite.net ATBP:216.169.111.30-216.169.111.30
 lit1.xcite.net ATBP:216.169.118.17-216.169.118.17
 lit4.xcite.net ATBP:216.169.118.122-216.169.118.122
+lit6.xcite.net ATBP:216.169.118.192-216.169.118.192
 lit5.xcite.net ATBP:216.169.118.196-216.169.118.196
 lit2.xcite.net ATBP:216.169.118.215-216.169.118.215
 lit3.xcite.net ATBP:216.169.118.221-216.169.118.221
@@ -3071,7 +3072,6 @@ ads.spaceports.com:216.234.161.68-216.234.161.68
 c10-ssa-xw-lb.cnet.com ads:216.239.115.141-216.239.115.141
 search.com - suspended-domain.com:216.239.122.34-216.239.122.34
 ezrx.org:216.239.128.70-216.239.128.70
-ads:216.240.131.2-216.240.131.2
 web10.mygisol.com ads:216.240.137.91-216.240.137.91
 banner.kiev.ua ads:216.240.158.3-216.240.158.3
 www.nichewebdeals.com:216.240.187.145-216.240.187.145
@@ -3134,6 +3134,7 @@ fuerst.titan-networks.de ads:217.173.129.62-217.173.129.62
 ads:217.174.97.2-217.174.97.2
 ads:217.194.102.5-217.194.102.5
 delivery1.ads.telegraaf.nl ads:217.196.45.101-217.196.45.102
+scams  fbx-online.com/:217.199.175.14-217.199.175.14
 ads:217.204.57.200-217.204.57.200
 ads.itadnetwork.co.uk:217.205.137.210-217.205.137.210
 TradeDoubler AB:217.212.224.0-217.212.224.127
@@ -3159,7 +3160,6 @@ Doubleclick PC Bang:219.240.133.192-219.240.133.255
 Double Click Japan,Inc:220.99.106.96-220.99.106.103
 Pharmacy Express:220.112.47.173-220.112.47.173
 fuckbookorginal.com:221.88.199.20-221.88.199.20
-CitySex.com:222.39.36.80-222.39.36.80
 okcounter.com:222.97.189.4-222.97.189.4
 fuckbookorginal.com:222.104.193.5-222.104.193.5
 RudeFinder.com:222.106.31.112-222.106.31.112
