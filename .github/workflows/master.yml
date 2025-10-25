@@ -10,9 +10,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - run: mkdir dist && sort -u mirrors/* | gzip -9 > dist/blockp2p.list.gz
-      - uses: pyTooling/Actions/releaser@r0
+      - uses: pyTooling/Actions/releaser@r6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: "nightly"
