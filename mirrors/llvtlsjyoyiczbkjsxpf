@@ -14,6 +14,7 @@ Malware Infested:5.101.152.31-5.101.152.31
 CridexBanker:5.135.28.118-5.135.28.118
 MMuskatov OVH Malware:5.135.67.128-5.135.67.255
 CridexBanker:5.135.124.165-5.135.124.165
+OVH Malware:5.135.127.68-5.135.127.68
 ZeuS C&C:5.164.129.51-5.164.129.51
 Angler Exploit Kit:5.196.36.99-5.196.36.99
 Malware:5.196.189.147-5.196.189.147
@@ -221,6 +222,7 @@ Trojan-minst.exe-62.4.84.45.cybertechnology.nl[Spy:62.4.84.45-62.4.84.45
 E GROUP:62.39.85.0-62.39.85.255
 www.lyred.com:62.65.191.10-62.65.191.10
 SMARTDNS.ORG[CWS]:62.65.252.93-62.65.252.93
+ssl4all.com/host2010.com[CWS]:62.65.252.226-62.65.252.226
 Asprox:62.75.143.211-62.75.143.211
 ZeusVM:62.76.41.73-62.76.41.73
 CridexBanker:62.76.42.47-62.76.42.47
@@ -368,7 +370,6 @@ contentcleaner.com:64.34.165.110-64.34.165.110
 NS2.CHICAGOWEBS.COM:64.37.122.49-64.37.122.49
 malicious SWF files:64.38.4.130-64.38.4.134
 MPACK_exploit_site:64.38.33.13-64.38.33.13
-malicious SWF files:64.38.62.234-64.38.62.234
 L.R.COMPANY SERVICES LTD:64.39.19.128-64.39.19.143
 W32.Downadup.Conficker - conficker-cleaner.com:64.39.19.138-64.39.19.138
 Media-Update[Spy]:64.40.32.201-64.40.32.201
@@ -535,6 +536,7 @@ othersearch.com-CWS[Spy]:64.237.57.215-64.237.57.215
 LinkReplacer[Spy]:64.237.61.3-64.237.61.3
 ThruPort Technologies:64.237.96.0-64.237.111.255
 Black Hole Exploit Kit:64.244.61.40-64.244.61.40
+NTSEARCH.COM[CWS TROJANS]:64.246.32.114-64.246.32.114
 NS2.NTSEARCH.COM[CWS TROJANS]:64.246.33.205-64.246.33.205
 ww.Adaware-no.com/adaware.info:64.246.54.50-64.246.54.50
 www.deleter-spy.com:64.247.18.96-64.247.18.96
@@ -620,7 +622,6 @@ temasearch.com[Spy]:66.55.135.220-66.55.135.220
 cx.linklist.cc/66.55.136.82.gigabits.us[CWS]:66.55.136.82-66.55.136.82
 linklist.cc[CWS]:66.55.136.84-66.55.136.84
 N3.searchx.cc[CWS]:66.55.136.87-66.55.136.87
-th.msie.cc[CWS]:66.55.136.93-66.55.136.93
 0calories.net[CWS]:66.55.139.28-66.55.139.29
 CLICKTHRUTRAFFIC.COM:66.70.16.150-66.70.16.150
 STANDARDINTERNET.com:66.70.20.50-66.70.20.50
@@ -687,7 +688,6 @@ Bestoffers.bz:66.113.176.180-66.113.176.180
 NS1.NATIONAL-NET.COM:66.115.130.4-66.115.130.4
 NATIONAL-NET.COM:66.115.134.160-66.115.134.160
 NS2.NATIONAL-NET.COM:66.115.136.4-66.115.136.4
-Spythis.com-NationalNet Inc[Spy]:66.115.136.230-66.115.136.230
 achtungachtung.com:66.115.136.241-66.115.136.241
 bruggenet.net:66.115.153.38-66.115.153.38
 Dialers:66.115.176.29-66.115.176.29
@@ -710,7 +710,6 @@ Clickspring, LLC:66.150.207.0-66.150.207.7
 New.net, Inc:66.151.57.0-66.151.57.255
 ClickSpring LLC:66.151.182.8-66.151.182.15
 Clickspring, LLC:66.151.185.248-66.151.185.255
-Integrated Search Technologies:66.152.93.0-66.152.93.127
 powweb.com[Transponder Gangs Affiliates]:66.152.97.130-66.152.97.130
 Total Velocity:66.159.219.192-66.159.219.207
 Clearsearch[Spy]:66.161.28.166-66.161.28.166
@@ -741,7 +740,6 @@ Index Exchange [formerly Casale Media]:66.199.131.73-66.199.131.73
 Index Exchange [formerly Casale Media]:66.199.141.53-66.199.141.53
 Peer1 Internet Bandwidth:66.199.187.160-66.199.187.191
 spydevastator.com:66.199.227.210-66.199.227.210
-Malware site:66.199.229.253-66.199.229.253
 youasia.net:66.199.231.178-66.199.231.178
 movieportal2008cx.com:66.199.232.222-66.199.232.222
 iii.exe:66.199.237.36-66.199.237.36
@@ -826,7 +824,6 @@ cybcity.com:66.250.172.124-66.250.172.124
 cybamall.com:66.250.172.125-66.250.172.125
 CYBERTURF.COM:66.250.172.127-66.250.172.127
 megaone.com:66.250.172.129-66.250.172.129
-Searchit.com:66.250.172.151-66.250.172.151
 quickcleaner.com:66.251.31.194-66.251.31.194
 Asprox C&C:66.255.131.164-66.255.131.164
 Everyones Internet:67.15.6.92-67.15.20.5
@@ -943,7 +940,6 @@ Spy-Patrol.com:69.20.21.192-69.20.21.207
 Stop Popup Ads Now, Inc:69.20.27.208-69.20.27.215
 69.20.29.247/ahexe.exe|hijack:69.20.29.247-69.20.29.247
 Stop Popup Ads Now, Inc:69.20.30.72-69.20.30.87
-www.mypctuneup.com:69.20.30.73-69.20.30.73
 NicTech Networks, Inc:69.20.33.96-69.20.33.103
 NicTech Networks, Inc:69.20.47.136-69.20.47.143
 service.netmeans.com:69.20.55.82-69.20.55.82
@@ -958,6 +954,7 @@ dollarrevenue spyware:69.20.86.47-69.20.86.47
 consumercreditusa.com:69.20.92.81-69.20.92.81
 urbangestdesarrollos.com:69.20.102.224-69.20.102.224
 SearchingBooth Inc[Spy]:69.20.126.64-69.20.126.95
+spyware-adware-download.com[Spy]:69.22.169.62-69.22.169.62
 ValueClick Corporation:69.25.28.0-69.25.28.255
 megaspaware.com:69.25.142.57-69.25.142.57
 TopSites[Spy]:69.28.195.198-69.28.195.198
@@ -1137,7 +1134,6 @@ Fake scanners:72.52.146.60-72.52.146.60
 a.gd:72.52.201.204-72.52.201.204
 windows-error-fixer.com:72.52.204.150-72.52.204.150
 up.dwltna.com:72.55.174.239-72.55.174.239
-foredu.com:72.167.177.225-72.167.177.225
 antivirus-pro.org:72.167.195.125-72.167.195.125
 registry-cleaner-2009.com:72.167.232.44-72.167.232.44
 powelldirects.com - trojans:72.167.232.78-72.167.232.78
@@ -1303,7 +1299,6 @@ m2.petiads.com:78.109.18.211-78.109.18.211
 ya-tracker.com:78.109.20.34-78.109.20.34
 xvids-db.com:78.109.20.50-78.109.20.50
 sk0.info:78.109.22.10-78.109.22.10
-Fake online scanners:78.109.29.65-78.109.29.65
 trojans:78.109.30.48-78.109.30.48
 nod32soft.info-new-messenger.com:78.129.142.9-78.129.142.10
 emule-p2p.com:78.129.142.31-78.129.142.31
@@ -1375,6 +1370,7 @@ Nuclear Exploit Kit:80.85.87.179-80.85.87.179
 biglendlive.info:80.90.118.37-80.90.118.37
 web-mediaplayer.com:80.91.76.151-80.91.76.151
 hq-software.com|BT|SpySherrif:80.92.240.135-80.92.240.135
+aetopoulos.de|malware|BT:80.150.6.143-80.150.6.143
 PRSPYBOT.COM[Spy Nuker]:80.168.8.214-80.168.8.214
 autoexec-virus:80.185.170.71-80.185.170.71
 Yambo botnet:80.191.84.220-80.191.84.220
@@ -1495,6 +1491,7 @@ ZeuS botnet Command & Control server:83.233.165.214-83.233.165.214
 ZeuS C&C:84.16.134.75-84.16.134.75
 bestpictures2.com:84.16.227.62-84.16.227.62
 warntoprotect.com:84.16.228.142-84.16.228.142
+adserver.adtechde.net:84.16.229.240-84.16.229.240
 trojans:84.16.237.46-84.16.237.46
 Fake scanners:84.16.242.70-84.16.242.70
 unix-index.info:84.16.243.231-84.16.243.231
@@ -1660,7 +1657,6 @@ Exploits:89.187.49.250-89.187.49.250
 Exploits:89.187.51.14-89.187.51.14
 Malware:89.188.16.27-89.188.16.27
 CridexBanker:89.188.121.106-89.188.121.106
-CottonCastle Exploit Kit:89.208.156.101-89.208.156.101
 antispywareguard.com:89.238.137.75-89.238.137.75
 winscanner18.com:89.248.162.147-89.248.162.147
 antivirus2008exp.com:89.248.168.172-89.248.168.172
@@ -1709,7 +1705,6 @@ Win-x-defenders.com|Shredder-scan.com:91.208.0.243-91.208.0.243
 web-mediaplayer.com:91.209.163.203-91.209.163.203
 netsecuritybureau.com:91.211.64.31-91.211.64.31
 protecton-anti-virus-scan.com:91.211.64.68-91.211.64.68
-safesoftwaretransfer.com:91.211.65.21-91.211.65.21
 Rootkit:91.211.65.30-91.211.65.30
 Malware:91.211.117.76-91.211.117.76
 basesrv3.net:91.212.41.90-91.212.41.90
@@ -1720,6 +1715,7 @@ xmovies-host.com:91.212.132.11-91.212.132.11
 Zeus bot Command & Control server (bklinkov.ru):91.212.158.5-91.212.158.6
 Zeus bot Command & Control server (hostvegass.ru):91.212.158.77-91.212.158.77
 dollarpoint.ru:91.212.158.100-91.212.158.100
+Zeus bot Command & Control server (dollarpoint.ru):91.212.158.100-91.212.158.100
 Netdedicated Solutions:91.212.226.0-91.212.226.255
 Asprox:91.212.253.253-91.212.253.253
 Hijack scamware BISS:91.213.126.103-91.213.126.103
@@ -1800,7 +1796,6 @@ netsecurityupdates.com:94.75.227.80-94.75.227.80
 privatetubes09.net:94.75.235.12-94.75.235.12
 Spyware-Ads Blueconnex:94.76.213.227-94.76.213.227
 crustat.com:94.76.213.234-94.76.213.234
-Fake Antivirus Hijacks:94.100.26.99-94.100.26.99
 Fake DNS server for Gumblar attack:94.102.4.2-94.102.4.2
 Flash maladvertisements (sex-and-the-city.cn):94.102.48.29-94.102.48.29
 www.r2514124a.info:94.102.55.249-94.102.55.249
@@ -1928,6 +1923,7 @@ macaples.in, sport-lab.cn:115.100.250.114-115.100.250.114
 Asprox C&C:115.124.94.120-115.124.94.120
 rootkit:115.126.2.150-115.126.2.150
 icaapi.com - trojans:115.126.2.159-115.126.2.159
+system-scanner.org:115.126.5.92-115.126.5.92
 Malware:115.236.76.168-115.236.76.168
 trojans:117.23.205.231-117.23.205.231
 d.laiyiba.com:117.25.129.108-117.25.129.108
@@ -1956,6 +1952,7 @@ www.eigojuku.jp:122.50.126.91-122.50.126.91
 Asprox:122.154.59.6-122.154.59.6
 Asprox:122.155.167.122-122.155.167.122
 Asprox C&C:122.155.219.30-122.155.219.30
+Overture Company:122.216.221.64-122.216.221.79
 Zeus bot Command & Control server:122.224.5.189-122.224.5.189
 ifengw.com:122.224.6.50-122.224.6.50
 Yambo botnet:122.224.14.178-122.224.14.178
@@ -2253,6 +2250,7 @@ datingnearby.com, ns4.netwithuse.com:194.90.36.179-194.90.36.179
 Asprox:194.90.168.147-194.90.168.147
 Yauza:194.90.224.80-194.90.224.87
 malicious SWF files:194.110.67.19-194.110.67.25
+Fake scanners:194.110.161.164-194.110.161.164
 themymoviessite.com:194.126.174.124-194.126.174.124
 Malware Host|MDL:194.126.193.152-194.126.193.152
 Asprox:194.146.226.81-194.146.226.81
@@ -2325,6 +2323,7 @@ searchhh.com[CWS]:195.225.176.9-195.225.176.9
 searchv.com/lookfor.cc[CWS]:195.225.176.23-195.225.176.23
 Hijacker|Netcat Hosting Ukraine:195.225.176.25-195.225.176.26
 loadcash.biz|Hijack:195.225.176.38-195.225.176.38
+likesurfing.com:195.225.177.8-195.225.177.8
 online.chm-NetcatHosting[Hijacker]:195.225.177.13-195.225.177.13
 ip177-14.netcathost.com[Trojan.Moo.B]:195.225.177.14-195.225.177.14
 makemesearch.com:195.225.177.17-195.225.177.17
@@ -2357,6 +2356,7 @@ AsproxBotnet:198.101.241.159-198.101.241.159
 www.dirtysexgames.net:198.104.138.25-198.104.138.25
 www.Spybegone.com[Spy]:198.104.147.76-198.104.147.76
 www.freeSpyscan.org[Spy]:198.104.147.77-198.104.147.77
+banker trojan:198.106.205.153-198.106.205.153
 Rainy Garden Net:198.133.206.0-198.133.206.255
 Asprox:198.154.224.48-198.154.224.48
 Browser Exploits:198.211.3.81-198.211.3.81
@@ -2510,8 +2510,8 @@ ezanga.com[Spy]:206.161.125.10-206.161.125.10
 ah1-p4id-88.advancedhosters.com:206.161.125.149-206.161.125.149
 xpguard2008.com:206.161.126.40-206.161.126.40
 CWS.Loadbat/CWS.MSConfd/IE-Search[TROJAN]:206.161.127.66-206.161.127.66
-www.psguard.com:206.161.200.34-206.161.200.34
 findloss.com[CWS]:206.161.200.105-206.161.200.105
+www.webspyshield.com/Scam:206.161.201.222-206.161.201.222
 search-ing.com[CWS]:206.161.202.130-206.161.202.130
 0ml.net/cat/BT[Hijack]:206.161.202.131-206.161.202.131
 www.richfind.com[Spy]:206.161.205.30-206.161.205.30
@@ -2570,6 +2570,7 @@ www.spywarestormer.com:207.44.208.39-207.44.208.39
 247-1.net:207.44.212.67-207.44.212.67
 5spynetwork.com:207.44.218.12-207.44.218.12
 enigmasoftwaregroup[spybot S&D ripoffs]:207.44.220.11-207.44.220.11
+www.malwhere.com[Spy]:207.44.232.45-207.44.232.45
 www.marketingmetrixgroup.com:207.44.236.83-207.44.236.83
 websearch24.com:207.44.240.92-207.44.240.92
 e-bannerx.com:207.44.240.113-207.44.240.113
@@ -2830,6 +2831,7 @@ videosgalleries|Zlob-codec hijackers:209.200.13.214-209.200.13.214
 staticserv|vidscollection|Zlob-codec hijackers:209.200.18.172-209.200.18.172
 Zlob-codec hijackers:209.200.49.68-209.200.49.68
 Zlob-codec hijackers:209.200.49.70-209.200.49.70
+Zlob-codec hijackers:209.200.49.116-209.200.49.126
 Media 3 Technologies LLC:209.211.255.194-209.211.255.194
 Malware Redirects:209.212.147.141-209.212.147.141
 www.antivirus-live-pro.com:209.216.193.98-209.216.193.98
@@ -3064,6 +3066,7 @@ www.Begin2Search.com[Spy]:216.130.185.122-216.130.185.122
 Hijack:216.130.185.143-216.130.185.143
 spywareavenger.com[Spy]:216.130.187.146-216.130.187.146
 toolbar.isearch.com/auto.isearch.com[Spy]:216.130.187.150-216.130.187.150
+brandnewdns.com/hijacks:216.130.188.199-216.130.188.199
 i-lookup.com[Spy]:216.130.188.210-216.130.188.210
 isearch.i-lookup.com[Spy]:216.130.188.217-216.130.188.217
 www.software-comparisons.com[Spy]:216.131.73.232-216.131.73.232
@@ -3081,7 +3084,6 @@ Webair Internet Development Inc:216.151.178.128-216.151.178.191
 Webair Internet Development Inc:216.151.178.240-216.151.178.247
 7452.searchmiracle.com:216.152.240.11-216.152.240.11
 www.prada.7799.org|hijacks:216.152.252.60-216.152.252.60
-Zeus C&C:216.157.85.173-216.157.85.173
 Naviscope[Spy]:216.157.91.36-216.157.91.36
 www.rateSpyremovers.com[Spy]:216.157.142.192-216.157.142.192
 web3000:216.168.60.122-216.168.60.122
@@ -3099,7 +3101,6 @@ MIRCX.COM/CJB ManagementInc/vbs.searchwww.com:216.194.70.2-216.194.70.3
 searchwww.com:216.194.70.7-216.194.70.7
 SearchWWW[Spy]:216.194.70.15-216.194.70.15
 APS telecom (Pricewert LLC):216.195.32.0-216.195.63.255
-www.heretofind.com[Spy]:216.195.32.225-216.195.32.225
 uralcash.com:216.195.34.102-216.195.34.102
 saintsex.com/bruteporn.com[CWS]:216.195.34.195-216.195.34.195
 www.livesearching.com:216.195.36.180-216.195.36.180
@@ -3136,7 +3137,6 @@ Netiquity:216.204.11.192-216.204.11.255
 WhenU.com:216.213.75.0-216.213.75.255
 yfdirect.com[YFDirect Inc]:216.218.255.18-216.218.255.18
 YOURFREEDVDS.COM[YFDirect Inc]:216.218.255.25-216.218.255.25
-NicTech Networks/VX2.betterinternet-look2me:216.219.239.247-216.219.239.247
 Index Exchange [formerly Casale Media]:216.220.36.8-216.220.36.11
 Index Exchange [formerly Casale Media]:216.220.36.24-216.220.36.27
 Index Exchange [formerly Casale Media]:216.220.52.160-216.220.52.191
@@ -3225,7 +3225,6 @@ Pugi[Spy]:217.157.14.29-217.157.14.29
 www.nontoxic-internet.com[Spy]:217.160.226.67-217.160.226.67
 2004spywareremovers.com:217.160.226.130-217.160.226.130
 JSC "ELTEL" Network:217.170.64.0-217.170.67.255
-Overture Search Services Ltd:217.173.106.224-217.173.106.255
 11hilf.com:217.216.80.84-217.216.80.84
 www.tendomain.com|Hijack|BT:218.38.13.220-218.38.13.220
 7zsm.com:218.60.130.119-218.60.130.119
